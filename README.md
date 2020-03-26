@@ -48,6 +48,8 @@
 
 **지금 읽는 중**🔖
 
+**필사 중** ✍
+
 
 
 ### [DDD-start](/DDD-start)
@@ -126,6 +128,8 @@ VIM의 신세계를 경험할 수 있었던 책이다. 일반적으로 긴 텍�
 
 **읽기 완료** 📕🔚🌟
 
+**필사 중** ✍
+
 
 
 ### [Java 언어로 배우는 디자인 패턴 입문](https://github.com/LenKIM/DesignPattern)
@@ -138,11 +142,15 @@ VIM의 신세계를 경험할 수 있었던 책이다. 일반적으로 긴 텍�
 
 **지금 읽는 중**🔖
 
+**필사 중** ✍
+
 
 
 ### [이펙티브자바3판](https://github.com/LenKIM/everyone-is-effective-java-study)
 
 **지금 읽는 중**🔖
+
+**필사 중** ✍
 
 
 
