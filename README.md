@@ -12,7 +12,7 @@
 
 **지금 읽는 중** 🔖
 
-**필사 중 ** ✍
+**필사 중** ✍
 
 
 
@@ -176,13 +176,13 @@ VIM의 신세계를 경험할 수 있었던 책이다. 일반적으로 긴 텍�
 
 ### 피플웨어
 
-[책 링크]([https://insightbooklist.wordpress.com/books/ppp/%ED%94%BC%ED%94%8C%EC%9B%A8%EC%96%B4/](https://insightbooklist.wordpress.com/books/ppp/피플웨어/))
-
 **읽기 완료** 📕🔚
 
+[책 링크]([https://insightbooklist.wordpress.com/books/ppp/%ED%94%BC%ED%94%8C%EC%9B%A8%EC%96%B4/](https://insightbooklist.wordpress.com/books/ppp/피플웨어/))
 
 
-자바 ORM 표준 JPA 프로그래밍
+
+### 자바 ORM 표준 JPA 프로그래밍
 
 **잠시 멈춤 💤**
 
