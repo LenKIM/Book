@@ -1,31 +1,201 @@
-
-# Book
+# Book📚
 
 ---
 
-## [손에 잡히는 VIM](손에%20잡히는%20VIM.md)
-
-  - VIM의 신세계를 경험할 수 있었던 책이다. 일반적으로 긴 텍스트 문서의 경우, VIM을 제외한 어떤 Editor도 VIM을 생산성을 넘을 수 없을 거란 예측을 하게됨.
-## [안드로이드 그 한계를 넘어서(android pushing the limits)](/안드로이드-그한계를넘어서)
 
 
-## [프로 리액트](Pro react)
-  - 처음 리액트 개념 잡기 정말 좋은 책이라고 판단된다. 리액트의 경우 처음 배울 때의 러닝커브가 크다라는게 내 관점인데, 이런 관점에서 버전은 조금 떨어지더라고 개념잡기 좋은 책!
+**읽기 완료** 📕🔚
 
-##  [10일 만에 끝내는 MBA](/10일 만에 끝내는 MBA)
-  - MBA에 관심을 갖고 읽기 시작한 책인데, 1차원적으로 생각하는 나에게는 어려운 책.
 
-## [Rxjava 프로그래밍](/RxJava 프로그래밍)
 
-- Rxjava 프로그래밍 처음 접할 때 이해되기 좋은 책
+**읽은 횟수** 🌟
+
+**지금 읽는 중** 🔖
+
+**필사 중 ** ✍
+
+
+
+**현재 읽는 중 📖**
+
+**잠시 멈춤 💤**
+
+---
+## [10일만에 끝내는 MBA](/10일 만에 끝내는 MBA)
+
+**잠시 멈춤 💤**
+
+경영자 입장에서 어떤 서비스를 운영해야 한다면, 가장 기본적으로 알아야할 내용이 수록되어 있는 책.
+
+
+
+## [Clean Code](/Clean Code)
+
+🌟🌟
+
+
+
+2박3일 동원 예비군 훈련을 간다면, 이 책을 휴대하고 가길 권장하는 책.
+
+사실 개발자라면 이 책이 얼마나 중요한지 알고 있다.
+
+매번 읽을 때마다 얻는게 있는 책.
+
+
+
+## [Cracking the coding interview](/Cracking the coding interview)
+
+**잠시 멈춤 💤**
+
+
+
+## [도메인 주도 설계 - 에릭에반스](/ddd)
+
+**지금 읽는 중**🔖
+
+
+
+## [DDD-start](/DDD-start)
+
+**읽기 완료** 📕🔚🌟
+
+
+
+## [Java8 in Action](/Java8 in Action)
+
+**읽기 완료** 📕🔚🌟🌟
+
+
+
+## [Pro react](/Pro react)
+
+**읽기 완료** 📕🔚🌟
+
+
+
+## [RxJava 프로그래밍](/RxJava 프로그래밍)
+
+**읽기 완료** 📕🔚🌟
+
+
+
+## [YOU-DON'T-KNOW-JS](/YOU-DON'T-KNOW-JS)
+
+**읽기 완료** 📕🔚🌟
+
+
+
+## [반응형웹CSS](/반응형웹CSS)
+
+**읽기 완료** 📕🔚🌟
+
+
+
+## [안드로이드-그한계를넘어서](/안드로이드-그한계를넘어서)
+
+**읽기 완료** 📕🔚🌟
+
+
+
+## [패턴을_활용한_리팩토링](/패턴을_활용한_리팩토링)
+
+**잠시 멈춤 💤**
+
+
 
 ## [함수형사고(Functional Thinking)](https://github.com/LenKIM/Book/tree/master/함수형사고(Functional Thinking))
 
-
-
-## [패턴을 활용한 리팩토링](https://github.com/LenKIM/Book/tree/master/패턴을_활용한_리팩토링)
+**읽기 완료** 📕🔚🌟🌟
 
 
 
-## [DDD start](https://github.com/LenKIM/Book/tree/master/DDD start)
+## [손에 잡히는 VIM](손에%20잡히는%20VIM.md)
+
+**읽기 완료** 📕🔚🌟
+
+
+
+VIM의 신세계를 경험할 수 있었던 책이다. 일반적으로 긴 텍스트 문서의 경우, VIM을 제외한 어떤 Editor도 VIM을 생산성을 넘을 수 없을 거란 예측을 하게되는 책.
+
+
+
+## [실용주의 프로그래머(The Pragmenatic Programmer)](실용주의 프로그래머(The Pragmenatic Programmer).md)
+
+**읽기 완료** 📕🔚🌟🌟
+
+
+
+---
+
+
+
+## [오브젝트](https://github.com/LenKIM/object-book)
+
+**읽기 완료** 📕🔚🌟
+
+
+
+## [Java 언어로 배우는 디자인 패턴 입문](https://github.com/LenKIM/DesignPattern)
+
+**읽기 완료** 📕🔚🌟
+
+## [불친절한 SQL 프로그래밍](https://github.com/sql-study/archive)
+
+**지금 읽는 중**🔖
+
+
+
+## [이펙티브자바3판](https://github.com/LenKIM/everyone-is-effective-java-study)
+
+**지금 읽는 중**🔖
+
+
+
+회사에서 그룹스터디하는 중이나, 코로나 바이러스로 인한 **잠시 멈춤 💤**
+
+## [코딩 트레이닝](https://github.com/LenKIM/coding-trainning)
+
+**지금 읽는 중**🔖
+
+동료분들과 함께하는 순수한 문제풀이책.
+
+
+
+## [데이터 과학자가 되는 핵심 기술](https://github.com/LenKIM/Show-me-the-data-science/tree/master/03.Principles-of-Data-Science)
+
+**읽기 완료** 📕🔚🌟
+
+
+
+## [카프카, 데이터 플랫폼의 최강자](https://github.com/LenKIM/Show-me-the-data-science/blob/master/02.BigData/kafka/Summary.md)
+
+**읽기 완료** 📕🔚🌟
+
+
+
+- https://www.slipp.net/wiki/pages/viewpage.action?pageId=30772798
+
+
+
+## 피플웨어
+
+[책 링크]([https://insightbooklist.wordpress.com/books/ppp/%ED%94%BC%ED%94%8C%EC%9B%A8%EC%96%B4/](https://insightbooklist.wordpress.com/books/ppp/피플웨어/))
+
+**읽기 완료** 📕🔚
+
+
+
+## 자바 ORM 표준 JPA 프로그래밍
+
+**잠시 멈춤 💤**
+
+
+
+## 드라이브
+
+**읽기 완료** 📕🔚
+
+[책 링크](http://www.yes24.com/Product/Goods/5819980?scode=032&OzSrank=10)
+
+
 
