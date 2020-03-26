@@ -21,7 +21,7 @@
 **잠시 멈춤 💤**
 
 ---
-## [10일만에 끝내는 MBA](/10일 만에 끝내는 MBA)
+## [10일만에 끝내는 MBA](/10일%20만에%20끝내는%20MBA)
 
 **잠시 멈춤 💤**
 
@@ -29,21 +29,16 @@
 
 
 
-## [Clean Code](/Clean Code)
+## [Clean Code](/Clean%20Code)
 
 🌟🌟
 
-
-
-2박3일 동원 예비군 훈련을 간다면, 이 책을 휴대하고 가길 권장하는 책.
-
-사실 개발자라면 이 책이 얼마나 중요한지 알고 있다.
 
 매번 읽을 때마다 얻는게 있는 책.
 
 
 
-## [Cracking the coding interview](/Cracking the coding interview)
+## [Cracking the coding interview](/Cracking%20the%20coding%20interview)
 
 **잠시 멈춤 💤**
 
@@ -61,19 +56,19 @@
 
 
 
-## [Java8 in Action](/Java8 in Action)
+## [Java8 in Action](/Java8%20in%20Action)
 
 **읽기 완료** 📕🔚🌟🌟
 
 
 
-## [Pro react](/Pro react)
+## [Pro react](/Pro%20react)
 
 **읽기 완료** 📕🔚🌟
 
 
 
-## [RxJava 프로그래밍](/RxJava 프로그래밍)
+## [RxJava 프로그래밍](/RxJava%20프로그래밍)
 
 **읽기 완료** 📕🔚🌟
 
@@ -103,7 +98,7 @@
 
 
 
-## [함수형사고(Functional Thinking)](https://github.com/LenKIM/Book/tree/master/함수형사고(Functional Thinking))
+## [함수형사고(Functional Thinking)](https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking))
 
 **읽기 완료** 📕🔚🌟🌟
 
@@ -119,7 +114,7 @@ VIM의 신세계를 경험할 수 있었던 책이다. 일반적으로 긴 텍�
 
 
 
-## [실용주의 프로그래머(The Pragmenatic Programmer)](실용주의 프로그래머(The Pragmenatic Programmer).md)
+## [실용주의 프로그래머(The Pragmenatic Programmer)](실용주의%20프로그래머(The%20Pragmenatic%20Programmer).md)
 
 **읽기 완료** 📕🔚🌟🌟
 
