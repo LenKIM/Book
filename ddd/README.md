@@ -44,17 +44,17 @@
 
 
 - [ ] 05장 소프트웨어에서 표현되는 모델  
-- [ ] 연관관계  
-- [ ] ENTITY (엔티티, 참조객체라고도 함)  
-- [ ] - ENTITY 모델링  
-- [ ] - 식별 연산의 설계  
-- [ ] VALUE OBJECT (값 객체)  
-- [ ] - VALUE OBJECT의 설계  
-- [ ] - VALUE OBJECT를 포함한 연관관계 설계  
-- [ ] SERVICE(서비스)  
-- [ ] - SERVICE와 격리된 도메인 계층  
-- [ ] - 구성 단위  
-- [ ] - SERVICE에 접근하기  
+- [x] 연관관계  
+- [x] ENTITY (엔티티, 참조객체라고도 함)  
+- [x] - ENTITY 모델링  
+- [x] - 식별 연산의 설계  
+- [x] VALUE OBJECT (값 객체)  
+- [x] - VALUE OBJECT의 설계  
+- [x] - VALUE OBJECT를 포함한 연관관계 설계  
+- [x] SERVICE(서비스)  
+- [x] - SERVICE와 격리된 도메인 계층  
+- [x] - 구성 단위  
+- [x] - SERVICE에 접근하기  
 - [ ] MODULE(모듈, 패키지라고도 함)  
 - [ ] - 기민한 MODULE  
 - [ ] - 인프라스트럭처 주도 패키지화의 함정  
