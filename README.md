@@ -137,13 +137,13 @@ VIM의 신세계를 경험할 수 있었던 책이다. 일반적으로 긴 텍�
 **읽기 완료** 📕🔚🌟
 
 
-
 ### [불친절한 SQL 프로그래밍](https://github.com/sql-study/archive)
 
+**읽기 완료** 📕🔚🌟
+
+### [친절한 SQL 프로그래밍](https://github.com/sql-study/archive)
+
 **지금 읽는 중**🔖
-
-**필사 중** ✍
-
 
 
 ### [이펙티브자바3판](https://github.com/LenKIM/everyone-is-effective-java-study)
@@ -153,14 +153,9 @@ VIM의 신세계를 경험할 수 있었던 책이다. 일반적으로 긴 텍�
 **필사 중** ✍
 
 
-
-회사에서 그룹스터디하는 중이나, 코로나 바이러스로 인한 **잠시 멈춤 💤**
-
-
-
 ### [코딩 트레이닝](https://github.com/LenKIM/coding-trainning)
 
-**지금 읽는 중**🔖
+**읽기 완료** 📕🔚🌟
 
 동료분들과 함께하는 순수한 문제풀이책.
 
@@ -207,6 +202,5 @@ VIM의 신세계를 경험할 수 있었던 책이다. 일반적으로 긴 텍�
 **지금 읽는 중** 🔖
 
 [책 링크](http://www.yes24.com/Product/Goods/5819980?scode=032&OzSrank=10)
-
 
 
