@@ -14,10 +14,6 @@
 
 **필사 중** ✍
 
-
-
-**현재 읽는 중 📖**
-
 **잠시 멈춤 💤**
 
 ---
@@ -120,87 +116,109 @@ VIM의 신세계를 경험할 수 있었던 책이다. 일반적으로 긴 텍�
 
 
 
----
-
-
-
-### [오브젝트](https://github.com/LenKIM/object-book)
+### [오브젝트](https://wikibook.co.kr/object/)
 
 **읽기 완료** 📕🔚🌟
 
 **필사 중** ✍
 
+[Archive Repository](https://github.com/LenKIM/object-book)
 
 
-### [Java 언어로 배우는 디자인 패턴 입문](https://github.com/LenKIM/DesignPattern)
 
-**읽기 완료** 📕🔚🌟
-
-
-### [불친절한 SQL 프로그래밍](https://github.com/sql-study/archive)
+### [Java 언어로 배우는 디자인 패턴 입문](http://www.yes24.com/Product/Goods/2918928)
 
 **읽기 완료** 📕🔚🌟
 
-### [친절한 SQL 프로그래밍](https://github.com/sql-study/archive)
-
-**지금 읽는 중**🔖
+[Archive Repository](https://github.com/LenKIM/DesignPattern)
 
 
-### [이펙티브자바3판](https://github.com/LenKIM/everyone-is-effective-java-study)
+
+
+### [불친절한 SQL 프로그래밍](http://www.yes24.com/Product/Goods/64391533)
+
+**읽기 완료** 📕🔚🌟
+
+### [친절한 SQL 프로그래밍](http://www.yes24.com/Product/Goods/61254539)
+
+**읽기 완료** 📕🔚🌟
+
+[학습 자료 Archive](https://github.com/sql-study/archive/tree/SummaryByLen)
+
+
+
+
+### [이펙티브자바3판](https://blog.insightbook.co.kr/2018/10/24/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-3%ED%8C%90effective-java-3-e/)
 
 **지금 읽는 중**🔖
 
 **필사 중** ✍
 
+[학습 자료 Archive](https://github.com/LenKIM/everyone-is-effective-java-study)
 
-### [코딩 트레이닝](https://github.com/LenKIM/coding-trainning)
+
+
+### [코딩 트레이닝](http://www.yes24.com/Product/Goods/30076865?OzSrank=1)
 
 **읽기 완료** 📕🔚🌟
 
 동료분들과 함께하는 순수한 문제풀이책.
 
+[학습 자료 Archive](https://github.com/LenKIM/coding-trainning)
 
 
-### [데이터 과학자가 되는 핵심 기술](https://github.com/LenKIM/Show-me-the-data-science/tree/master/03.Principles-of-Data-Science)
+
+### [데이터 과학자가 되는 핵심 기술](http://www.acornpub.co.kr/book/principle-data-science)
+
+**읽기 완료** 📕🔚🌟
+
+[학습 자료 Archive](https://github.com/LenKIM/Show-me-the-data-science/tree/master/03.Principles-of-Data-Science)
+
+
+
+### [카프카, 데이터 플랫폼의 최강자](http://www.yes24.com/Product/Goods/59789254)
+
+**읽기 완료** 📕🔚🌟
+
+[학습 자료 Archive](https://github.com/LenKIM/Show-me-the-data-science/blob/master/02.BigData/kafka/Summary.md)
+
+- Slipp 커뮤니티에서 했던 강의 -https://www.slipp.net/wiki/pages/viewpage.action?pageId=30772798
+
+
+
+### [피플웨어](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=3302&barcode=9788966261109)
 
 **읽기 완료** 📕🔚🌟
 
 
 
-### [카프카, 데이터 플랫폼의 최강자](https://github.com/LenKIM/Show-me-the-data-science/blob/master/02.BigData/kafka/Summary.md)
-
-**읽기 완료** 📕🔚🌟
-
-
-
-- https://www.slipp.net/wiki/pages/viewpage.action?pageId=30772798
-
-
-
-### 피플웨어
-
-**읽기 완료** 📕🔚
-
-[책 링크]([https://insightbooklist.wordpress.com/books/ppp/%ED%94%BC%ED%94%8C%EC%9B%A8%EC%96%B4/](https://insightbooklist.wordpress.com/books/ppp/피플웨어/))
-
-
-
-### 자바 ORM 표준 JPA 프로그래밍
+### [자바 ORM 표준 JPA 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960777330&orderClick=LAG&Kc=)
 
 **잠시 멈춤 💤**
 
 
 
-### 드라이브
+### [드라이브](http://www.yes24.com/Product/Goods/5819980?scode=032&OzSrank=10)
 
-**읽기 완료** 📕🔚
+**읽기 완료** 📕🔚🌟
 
-[책 링크](http://www.yes24.com/Product/Goods/5819980?scode=032&OzSrank=10)
 
-### [하이 퍼포먼스 스파크(5월 16일)](https://github.com/LenKIM/Show-me-the-data-science/tree/master/05.Spark%26Scala/HighPerformanceSpark)
+
+### [하이 퍼포먼스 스파크(5월 16일)](http://www.yes24.com/Product/Goods/5819980?scode=032&OzSrank=10)
+
+**읽기 완료** 📕🔚🌟
+
+[학습자료 Archive](https://github.com/LenKIM/Show-me-the-data-science/tree/master/05.Spark%26Scala/HighPerformanceSpark)
+
+
+
+### [규칙 없음(10월 1일)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788925599632&orderClick=LAG&Kc=)
 
 **지금 읽는 중** 🔖
 
-[책 링크](http://www.yes24.com/Product/Goods/5819980?scode=032&OzSrank=10)
 
+
+### [마이크로서비스 아키텍처 구축 - 대용량 시스템의 효율적인 분산 설계 기법(10월 1일)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968483417&orderClick=LEa&Kc=)
+
+**지금 읽는 중 🔖**
 
