@@ -214,11 +214,16 @@ VIM의 신세계를 경험할 수 있었던 책이다. 일반적으로 긴 텍�
 
 ### [규칙 없음(10월 1일)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788925599632&orderClick=LAG&Kc=)
 
-**지금 읽는 중** 🔖
+**읽기 완료**🔚🌟
 
+[후기](https://happy-coding-day.tistory.com/104)
 
 
 ### [마이크로서비스 아키텍처 구축 - 대용량 시스템의 효율적인 분산 설계 기법(10월 1일)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968483417&orderClick=LEa&Kc=)
 
 **지금 읽는 중 🔖**
 
+
+### [도메인 주도 설계 철저 입문](https://wikibook.co.kr/ddd/)
+
+**다시 읽는 중** ✍ 🔖🔚🌟
