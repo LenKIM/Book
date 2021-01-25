@@ -35,5 +35,5 @@ jobs:
           
       - name: Print secret value
         run: |
-          ${{ secrets.TEST_SECRET_PARAMS }}
+          echo ${{ secrets.TEST_SECRET_PARAMS }}
           echo test, and deploy your project.
