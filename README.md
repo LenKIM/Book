@@ -1,6 +1,5 @@
 # Reading Book📚
 
-
 **읽기 완료** 🔚 | **읽은 횟수** 🌟 | **지금 읽는 중** 📖 | **필사 중** ✍️ | **잠시 멈춤 💤**
 
 
@@ -35,5 +34,10 @@
 | 27   | [규칙 없음(10월 1일)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788925599632&orderClick=LAG&Kc=) |            |           |  🔚🌟  |                                                              |      | [후기](https://happy-coding-day.tistory.com/104)             |
 | 28   | [마이크로서비스 아키텍처 구축 - 대용량 시스템의 효율적인 분산 설계 기법(10월 1일)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968483417&orderClick=LEa&Kc=) |            |           |  💤   |                                                              |      |                                                              |
 | 29   | [도메인 주도 설계 철저 입문](https://wikibook.co.kr/ddd/)    |            |           |  🔚🌟  |                                                              |      | [후기](https://happy-coding-day.tistory.com/109)             |
-| 30   | [SQL AntiPatterns](http://ebook.insightbook.co.kr/book/25)   | 2021.01.25 |           |  📖   |                                                              |      | [저장소](https://github.com/LenKIM/Book/tree/master/SQL%20AntiPatterns) |
+| 30   | [SQL AntiPatterns](http://ebook.insightbook.co.kr/book/25)   | 2021.01.25 |           |  💤   | 혼자 하기 어려운 책이라 판단됨. 스터디그룹을 통해서 학습하면서 하면 좋을 것 같은 책. |      | [저장소](https://github.com/LenKIM/Book/tree/master/SQL%20AntiPatterns) |
+| 31   | 자바와 JUnit을 활용한 실용주의 단위 테스트                   | 2021.01.30 |           |  📖   |                                                              |      |                                                              |
+
+
+
+---
 
