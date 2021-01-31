@@ -36,5 +36,5 @@
 | 29   | [도메인 주도 설계 철저 입문](https://wikibook.co.kr/ddd/)    |            |           |  🔚🌟  |                                                              |      | [후기](https://happy-coding-day.tistory.com/109)             |
 | 30   | [SQL AntiPatterns](http://ebook.insightbook.co.kr/book/25)   | 2021.01.25 |           |  💤   | 혼자 하기 어려운 책이라 판단됨. 스터디그룹을 통해서 학습하면서 하면 좋을 것 같은 책. |      | [저장소](https://github.com/LenKIM/Book/tree/master/SQL%20AntiPatterns) |
 | 31   | [자바와 JUnit을 활용한 실용주의 단위 테스트](https://thebook.io/006814/) | 2021.01.30 |           |  📖   |                                                              |      | [저장소](./Pragmatic-unit-testing-in-java-with-junit/README.md) |
-| 32   | [테스트 주도 개발 - 캔트백](http://www.yes24.com/Product/Goods/12246033) | 2021.01.30 |           |  📖   |                                                              |      | [저장소](./Test-Driven Development/README.md)                |
+| 32   | [테스트 주도 개발 - 캔트백](http://www.yes24.com/Product/Goods/12246033) | 2021.01.30 |           |  📖   |                                                              |      | [저장소](./Test-Driven-Development/README.md)                |
 
