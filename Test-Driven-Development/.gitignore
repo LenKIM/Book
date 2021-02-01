@@ -125,5 +125,3 @@ gradle-app.setting
 .idea/qaplug_profiles.xml
 .idea/vcs.xml
 build/
-src/main/
-src/test/resources/
