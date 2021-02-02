@@ -39,4 +39,50 @@ class DollarTest {
     void differentClassEquality() {
         assertTrue(new Money(10, "CHF").equals(new Franc(10, "CHF")));
     }
+
+    @Test
+    void simpleAddition() {
+        Money _5 = Money.dollar(5);
+        Expression sum= _5.plus(_5);
+        Bank bank = new Bank();
+        Money reduced = bank.reduce(sum, "USD");
+        assertEquals(Money.dollar(10), reduced);
+    }
+
+    @Test
+    void plusReturnsSum() {
+        Money five = Money.dollar(5);
+        Expression result = five.plus(five);
+        Sum sum = (Sum)result;
+        assertEquals(five, sum.augend);
+        assertEquals(five, sum.addend);
+    }
+
+    @Test
+    void reduceSum() {
+        Expression sum = new Sum(Money.dollar(3), Money.dollar(4));
+        Bank bank = new Bank();
+        Money result = bank.reduce(sum, "USD");
+        assertEquals(Money.dollar(7), result);
+    }
+
+    @Test
+    void reduceMoney() {
+        Bank bank = new Bank();
+        Money result = bank.reduce(Money.dollar(1), "USD");
+        assertEquals(result, Money.dollar(1));
+    }
+
+    @Test
+    void reduceMoneyDifferentCurrency() {
+        Bank bank = new Bank();
+        bank.addRate("CHF", "USD", 2);
+        Money result = bank.reduce(Money.franc(2), "USD");
+        assertEquals(result, Money.dollar(1));
+    }
+
+    @Test
+    void arrayEquals() {
+        assertEquals(new Object[]{"abc"}, new Object[]{"abc"});
+    }
 }
