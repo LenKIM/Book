@@ -87,7 +87,11 @@ void quicklyPrint(int id);
 
 
 
-`2.5 퍼블릭 상수(Public Contant)를 사용하지 마세요` 부분에서는 `public static String MAX_VALUE = Integer.MAX_VALUE`  이런식으로 public으로 두지 말라는 말인데, 그 이유는 public으로 노출된 객체를 사용한다는 건 응집도를 낮추고, 결합도를 높이는 행위로 이어진다. 중복코드가 싫어서 `Public` 으로 상수로 두었다는 말은 지금 당장은 납득가능한 이야기이지만, 유지보수성으로는 좋은 코드는 아니라고 생각한다. 그러므로, 상수가 사용되는 객체 내에서 `private static String MAX_VALUE` 가 되야하는거 아닐까? 이렇게 되면 응집도는 높이고, 결합도는 낮쳐지기 때문이다.
+`2.5 퍼블릭 상수(Public Contant)를 사용하지 마세요` 부분에서는 `public static String MAX_VALUE = Integer.MAX_VALUE`  이런식으로 public으로 두지 말라는 말인데, 그 이유는 public으로 노출된 객체를 사용한다는 건 응집도를 낮추고, 결합도를 높이는 행위로 이어진다. 
+
+중복코드가 싫어서 `Public` 으로 상수로 두었다는 말은 지금 당장은 납득가능한 이야기이지만, 유지보수성으로는 좋은 코드는 아니라고 생각한다. 그러므로, 상수가 사용되는 객체 내에서 `private static String MAX_VALUE` 가 되야하는거 아닐까? 이렇게 되면 응집도는 높이고, 결합도는 낮쳐지기 때문이다.
+
+ 그렇다면 추후에 중복으로 사용되는 상수가 발생하면 어떻게 해야될까? 중복으로 사용해야되는 순간이 온다면, `Constants.XXX` 가 아니라 의미가 있는 클래스의 static 상수로 놓아야 합니다. 요는 객체는 자신이 사용하는 상수에 대해서 알고 있어야 하며, `Contants.XXX`와 같이 클래스를 만들어 활용하게 되면 점점 더 코드가 오염될 수 있다.
 
 
 
