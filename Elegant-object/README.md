@@ -49,13 +49,13 @@
 
 ## 4장 은퇴    
 
-- [ ] 4.1 절대 NULL을 반환하지 마세요  
+- [x] 4.1 절대 NULL을 반환하지 마세요  
 
-- [ ] 4.2 체크 예외(checked exception)만 던지세요   
+- [x] 4.2 체크 예외(checked exception)만 던지세요   
 
-- [ ] 4.3 final이거나 abstract이거나   
+- [x] 4.3 final이거나 abstract이거나   
 
-- [ ] 4.4 RAII를 사용하세요    
+- [x] 4.4 RAII를 사용하세요    
 
 에필로그
 
