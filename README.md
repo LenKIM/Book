@@ -37,5 +37,8 @@
 | 30   | [SQL AntiPatterns](http://ebook.insightbook.co.kr/book/25)   | 2021.01.25 |           |  💤   | 혼자 하기 어려운 책이라 판단됨. 스터디그룹을 통해서 학습하면서 하면 좋을 것 같은 책. |      | [저장소](https://github.com/LenKIM/Book/tree/master/SQL%20AntiPatterns) |
 | 31   | [자바와 JUnit을 활용한 실용주의 단위 테스트](https://thebook.io/006814/) | 2021.01.30 |           |  📖   |                                                              |      | [저장소](./Pragmatic-unit-testing-in-java-with-junit) |
 | 32   | [테스트 주도 개발 - 캔트백](http://www.yes24.com/Product/Goods/12246033) | 2021.01.30 | 2021.02.09 |  🔚 |  TDD 의 중요성을 인지하지 못하면, 따라가기 급급할 수 있는 책 |      | [저장소](./Test-Driven-Development)                |
-| 33   | [엘레강트 오브젝트](https://www.jiandson.co.kr/books/120) | 2021.02.09 | 2021.02.19 |  🔚   |                                                              |      | [저장소](./Elegant-object)                |
+| 33   | [엘레강트 오브젝트](https://www.jiandson.co.kr/books/120) | 2021.02.09 | 2021.02.19 |  🔚   | 책을 음미하면서 읽을수록 좋은 향기가 나는 책. 그러나, 편향된 시각으로 바라보면 향기가 고약한 냄새가 될 수 있는 책. |      | [저장소](./Elegant-object)                |
+| 34 | [Practical Domain Driven-Design in Enterprise Java](https://www.apress.com/gp/book/9781484245422) | 2021.03.07 |  | 📖 |  | | [저장소](https://github.com/LenKIM/practical-ddd-in-enterprise-java) |
+
+
 
