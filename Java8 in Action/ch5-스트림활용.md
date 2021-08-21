@@ -6,11 +6,7 @@
 - 다중 소스로부터 스트림 만들기
 - 무한 스트림
 
-
-
 ***여기서는 기본적인 filter, map 등의 기본연산은 생략하고, 조금 더 실용적인 스트림 활용만을 정리해보자.***
-
-
 
 - 두 개의 숫자 리스트가 있을 때 모든 숫자 쌍의 리스트를 반환하시오. 예를 들어 두 개의 리스트 [1,2,3]과 [3,4]가 주어지면 [(1,3), (1,4), (2,3), (2,4), (3,3), (3,4)] 를 반환  
 
@@ -24,15 +20,31 @@ List<int[]> pairs = num1.stream()
   											.collect(toList());
 ```
 
+## flatMap
+
+flatMap은 각 배열을 스트림이 아니라 스트림의 콘텐츠로 매핑한다.. 즉, map(Arrays::stream)과 달리 flatMap은 하나의 평면화된 스트림을 반환.
+
+![image-20210821122345308](https://tva1.sinaimg.cn/large/008i3skNgy1gto8wk1w6fj613i0u044n02.jpg)
+
+
+
 
 
 ## 검색과 매칭
 
+[자바 9 부터 추가된 내용]
+
+`TAKEWHILE` 활용
+
+
+
+`DROPWHILE` 활용
+
+
+
 
 
 `allMatch`, `anyMatch`, `noneMatch`, `findFirst`, `findAny`
-
-
 
 - **predicate가 적어도 한 요소와 일치하는지 확인**   
 
@@ -87,8 +99,6 @@ findFirst, findAny는 언제 사용할까?
 
 병렬 실행에서는 첫 번째 요소를 찾기 어렵다. 따라서 요소의 반환 순서가 상관없다면 병렬 스트림에서는 제약이 적은 findAny를 사용.
 ```
-
-
 
 ## Reducing
 
@@ -301,7 +311,7 @@ Stream.generate(Math::random)
 - filter, distinct, skip, limit 메서드로 스트림의 요소를 추출하거나 변환할 수 있다.
 - map, flatMap 메서드로 스트림의 요소를 추출하거나 변환할 수 있다.
 - findFirst, findAny 메서드로 스트림의 요소를 검색할 수 있다. allMatch, noneMatch, anyMatch 메서드를 이용해서 주어진 프레디케이트와 일치하는 요소를 스트림에서 검색할 수 있다.
-- 이ㄹ 메서드는 쇼트서킷(short-circuit), 즉 결과를 찾는 즉시 반환하며, 전체 스트림을 처리하지는 않는다.
+- 이 메서드는 쇼트서킷(short-circuit), 즉 결과를 찾는 즉시 반환하며, 전체 스트림을 처리하지는 않는다.
 - reduce 메서드로 스트림의 모든 요소를 반복 조합하며 값을 도출할 수 있다. 예를 들어 reduce로 스트림의 최댓값이나 모든 요소의 합계를 계산할 수 있다.
 - filter,map 등은 상태를 저장하지 않는  상태없는 상태(stateless operation) 이다. reduce 같은 연산은 값을 계산하는 데 필요한 상태를 저장한다. sorted, distinct 등의 메서드는 새로운 스트림을 반환하기에 앞서 스트림의 모든 요소를 버퍼에 저장해야 한다. 이런 메서드를 상태 있는 연산(stateful operation) 이라는 부른다.
 - IntStream, DoubleStream, ,LongStream은 기본형 특화 스트림이다. 이들 연산은 각각의 기본형에 맞게 특화되어 있다.

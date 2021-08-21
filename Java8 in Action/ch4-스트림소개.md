@@ -31,7 +31,7 @@ List<String> lowCaloricDishesName =
 스트림의 장점은 뭘까?
 
 - **선언형** 으로 코드를 구현할 수 있다. 즉, 루프와 if조건문 등의 제어 블록을 사용해서 **어떻게** 동작을 구현할지 지정할 필요 없이 '저칼로리의 요리만 선택하라' 같은 동작의 수행을 지정할 수 있다.
-- filter, sorted,map,collect 같은 여러 빌딩 블록 연산을 연결해서 복잡한 데이터 처리 파이프라인을 만들 수 있다.  여러 연산을 *파이프라인* 으로 만들어도 여전히 가독성과 명확성은 유지.
+- **filter,sorted,map,collect** 같은 여러 빌딩 블록 연산을 연결해서 복잡한 데이터 처리 파이프라인을 만들 수 있다.  여러 연산을 *파이프라인* 으로 만들어도 여전히 가독성과 명확성은 유지.
 
 - 그 외 특징으로
   - 선언형  
@@ -58,7 +58,7 @@ List<String> lowCaloricDishesName =
 - 내부 반복  
   : 추상적으로 가려져 함수 내부에서 반복되는 것
 - filter  
-  :특정요서 제외
+  :특정요소 제외
 - map
 - limit
 - collect  
@@ -113,8 +113,6 @@ s.forEach(System.out::println); // java.lang.IllegalstateException 발생.
 
 ![image-20190810110308482](http://ww2.sinaimg.cn/large/006tNc79gy1g5ucrxmn66j310c0u07wn.jpg)
 
-
-
 # 04. 중간 연산과 최종 연산
 
 중간연산과 최종연산까지 가는데의 과정을 설명해보자.
@@ -123,7 +121,7 @@ s.forEach(System.out::println); // java.lang.IllegalstateException 발생.
 - 스트림 파이프라인을 구성할 **중간 연산** 연결
 - 스트림 파이프라인을 실행하고 결과를 만들 **최종 연산**
 
-스트림 파이프라인의 개념은 빌더패턴(builder pattern) 과 비슷하다. 빌더 패턴에서는 호출을 연결해서 설정을 만든다.
+스트림 파이프라인의 개념은 `빌더패턴(builder pattern)` 과 비슷하다. 빌더 패턴에서는 호출을 연결해서 설정을 만든다.
 
 ![image-20190810110939786](http://ww1.sinaimg.cn/large/006tNc79gy1g5ud5vmrpij31ga0u0e85.jpg)
 
