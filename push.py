@@ -1,8 +1,12 @@
-import requests 
+import requests
+import sys
+import base64
 
-URL = 'https://api.github.com/repos/LenKIM/Book/contents?ref=master' 
+token = sys.argv
+
+URL = 'https://api.github.com/repos/LenKIM/Book/contents?ref=master'
 headers = {
-    "Authorization": "token " + ${{ secrets.TOKEN }},
+    "Authorization": "token " + token[1],
   }
 response = requests.get(URL, headers=headers).json()
 requestBody = responsei
@@ -13,9 +17,9 @@ for item in requestBody[1:]:
     if item["name"] == "README.md":
         readme_sha = item["sha"]
     abc = {
-           "name": item["name"], 
-           "url": item["url"], 
-           "html_url": item["html_url"], 
+           "name": item["name"],
+           "url": item["url"],
+           "html_url": item["html_url"],
            "type":item["type"]
           }
     item_collection.append(abc)
@@ -59,8 +63,8 @@ for idx, item in enumerate(item_collection):
         abc = abc + sub_strings
     else:
         abc = abc + name_string + "\n\n"
-    
-    
+
+
 
 readme_template = readme_template + abc
 
@@ -70,16 +74,16 @@ f = open("README.md", 'w')
 f.write(readme_template)
 f.close()
 
-import base64
+
 abc = base64.b64encode(bytes(readme_template, 'utf-8'))
 
 encoding_string = stringToBase64(readme_template);
 URL = 'https://api.github.com/repos/LenKIM/Book/contents/README.md'
 headers = {
-    "Authorization": "token " + ${{ secrets.TOKEN }},
+    "Authorization": "token " + token[1],
     "accept": "application/vnd.github.v3+json"
   }
-data={'message': 'push by github actions', 
+data={'message': 'push by github actions',
       'content': abc.decode('utf-8'),
       'sha': readme_sha,
       'commiter':{"name": "LenKIM",
