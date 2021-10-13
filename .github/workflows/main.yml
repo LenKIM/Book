@@ -26,4 +26,4 @@ jobs:
           pip install requests
       - name: Run Python
         run: |
-          python3 push.py
+          python3 push.py ${{ secrets.TOKEN }}
