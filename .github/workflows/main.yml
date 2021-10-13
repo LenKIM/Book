@@ -23,13 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests python-dateutil
-      - name: make git commit traces files
-        run: |
-          git fetch
-          git show origin/JWL -s --format="%aI" > jw.txt
-          git show origin/dev -s --format="%aI" > Len.txt
-          git show origin/tmp_dhkim -s --format="%aI" > Dhkim.txt
+          pip install requests
       - name: Run Python
         run: |
-          python3 alert_fine.py
+          python3 push.py
