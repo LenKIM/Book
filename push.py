@@ -9,7 +9,7 @@ headers = {
     "Authorization": "token " + token[1],
   }
 response = requests.get(URL, headers=headers).json()
-requestBody = responsei
+requestBody = response
 
 item_collection = []
 readme_sha = ""
@@ -76,8 +76,6 @@ f.close()
 
 
 abc = base64.b64encode(bytes(readme_template, 'utf-8'))
-
-encoding_string = stringToBase64(readme_template);
 URL = 'https://api.github.com/repos/LenKIM/Book/contents/README.md'
 headers = {
     "Authorization": "token " + token[1],
