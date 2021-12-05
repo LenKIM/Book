@@ -6,10 +6,14 @@
 [독서 목록](https://www.notion.so/likelen/44c8b34f833541c2b45ebcdf00d39286)
 
 
+0. .gitignore [<a href="https://github.com/LenKIM/Book/blob/master/.gitignore">링크</a>]</h2>
+
+
+
 
 
 <details>
-<summary>0. 10일 만에 끝내는 MBA [<a href="https://github.com/LenKIM/Book/tree/master/10%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EB%81%9D%EB%82%B4%EB%8A%94%20MBA">링크</a>]</h2>
+<summary>1. 10일 만에 끝내는 MBA [<a href="https://github.com/LenKIM/Book/tree/master/10%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EB%81%9D%EB%82%B4%EB%8A%94%20MBA">링크</a>]</h2>
 
 </summary>
 <p>
@@ -31,7 +35,7 @@
 
 
 <details>
-<summary>1. Clean Code [<a href="https://github.com/LenKIM/Book/tree/master/Clean%20Code">링크</a>]</h2>
+<summary>2. Clean Code [<a href="https://github.com/LenKIM/Book/tree/master/Clean%20Code">링크</a>]</h2>
 
 </summary>
 <p>
@@ -53,7 +57,7 @@
 
 
 <details>
-<summary>2. Cracking the coding interview [<a href="https://github.com/LenKIM/Book/tree/master/Cracking%20the%20coding%20interview">링크</a>]</h2>
+<summary>3. Cracking the coding interview [<a href="https://github.com/LenKIM/Book/tree/master/Cracking%20the%20coding%20interview">링크</a>]</h2>
 
 </summary>
 <p>
@@ -72,7 +76,7 @@
 
 
 <details>
-<summary>3. DDD start [<a href="https://github.com/LenKIM/Book/tree/master/DDD%20start">링크</a>]</h2>
+<summary>4. DDD start [<a href="https://github.com/LenKIM/Book/tree/master/DDD%20start">링크</a>]</h2>
 
 </summary>
 <p>
@@ -82,14 +86,14 @@
 </p>
 </details>
 
-4. Effective-Unit-Testing.md [<a href="https://github.com/LenKIM/Book/blob/master/Effective-Unit-Testing.md">링크</a>]</h2>
+5. Effective-Unit-Testing.md [<a href="https://github.com/LenKIM/Book/blob/master/Effective-Unit-Testing.md">링크</a>]</h2>
 
 
 
 
 
 <details>
-<summary>5. Elegant-object [<a href="https://github.com/LenKIM/Book/tree/master/Elegant-object">링크</a>]</h2>
+<summary>6. Elegant-object [<a href="https://github.com/LenKIM/Book/tree/master/Elegant-object">링크</a>]</h2>
 
 </summary>
 <p>
@@ -120,7 +124,7 @@
 
 
 <details>
-<summary>6. Java8 in Action [<a href="https://github.com/LenKIM/Book/tree/master/Java8%20in%20Action">링크</a>]</h2>
+<summary>7. Java8 in Action [<a href="https://github.com/LenKIM/Book/tree/master/Java8%20in%20Action">링크</a>]</h2>
 
 </summary>
 <p>
@@ -160,7 +164,7 @@
 
 
 <details>
-<summary>7. Pragmatic-unit-testing-in-java-with-junit [<a href="https://github.com/LenKIM/Book/tree/master/Pragmatic-unit-testing-in-java-with-junit">링크</a>]</h2>
+<summary>8. Pragmatic-unit-testing-in-java-with-junit [<a href="https://github.com/LenKIM/Book/tree/master/Pragmatic-unit-testing-in-java-with-junit">링크</a>]</h2>
 
 </summary>
 <p>
@@ -200,7 +204,7 @@
 
 
 <details>
-<summary>8. Pro react [<a href="https://github.com/LenKIM/Book/tree/master/Pro%20react">링크</a>]</h2>
+<summary>9. Pro react [<a href="https://github.com/LenKIM/Book/tree/master/Pro%20react">링크</a>]</h2>
 
 </summary>
 <p>
@@ -231,14 +235,14 @@
 </p>
 </details>
 
-9. README.md [<a href="https://github.com/LenKIM/Book/blob/master/README.md">링크</a>]</h2>
+10. README.md [<a href="https://github.com/LenKIM/Book/blob/master/README.md">링크</a>]</h2>
 
 
 
 
 
 <details>
-<summary>10. RxJava 프로그래밍 [<a href="https://github.com/LenKIM/Book/tree/master/RxJava%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D">링크</a>]</h2>
+<summary>11. RxJava 프로그래밍 [<a href="https://github.com/LenKIM/Book/tree/master/RxJava%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D">링크</a>]</h2>
 
 </summary>
 <p>
@@ -284,7 +288,7 @@
 
 
 <details>
-<summary>11. SQL AntiPatterns [<a href="https://github.com/LenKIM/Book/tree/master/SQL%20AntiPatterns">링크</a>]</h2>
+<summary>12. SQL AntiPatterns [<a href="https://github.com/LenKIM/Book/tree/master/SQL%20AntiPatterns">링크</a>]</h2>
 
 </summary>
 <p>
@@ -303,7 +307,7 @@
 
 
 <details>
-<summary>12. Test-Driven-Development [<a href="https://github.com/LenKIM/Book/tree/master/Test-Driven-Development">링크</a>]</h2>
+<summary>13. Test-Driven-Development [<a href="https://github.com/LenKIM/Book/tree/master/Test-Driven-Development">링크</a>]</h2>
 
 </summary>
 <p>
@@ -340,7 +344,7 @@
 
 
 <details>
-<summary>13. YOU-DON'T-KNOW-JS [<a href="https://github.com/LenKIM/Book/tree/master/YOU-DON'T-KNOW-JS">링크</a>]</h2>
+<summary>14. YOU-DON'T-KNOW-JS [<a href="https://github.com/LenKIM/Book/tree/master/YOU-DON'T-KNOW-JS">링크</a>]</h2>
 
 </summary>
 <p>
@@ -350,14 +354,27 @@
 </p>
 </details>
 
-14. _config.yml [<a href="https://github.com/LenKIM/Book/blob/master/_config.yml">링크</a>]</h2>
+15. _config.yml [<a href="https://github.com/LenKIM/Book/blob/master/_config.yml">링크</a>]</h2>
 
 
 
 
 
 <details>
-<summary>15. ddd [<a href="https://github.com/LenKIM/Book/tree/master/ddd">링크</a>]</h2>
+<summary>16. building-microservices [<a href="https://github.com/LenKIM/Book/tree/master/building-microservices">링크</a>]</h2>
+
+</summary>
+<p>
+&emsp;&emsp;▪️ README.md [<a href="https://github.com/LenKIM/Book/blob/master/building-microservices/README.md">링크</a>]
+
+
+</p>
+</details>
+
+
+
+<details>
+<summary>17. ddd [<a href="https://github.com/LenKIM/Book/tree/master/ddd">링크</a>]</h2>
 
 </summary>
 <p>
@@ -388,7 +405,7 @@
 
 
 <details>
-<summary>16. monolith-to-microservices [<a href="https://github.com/LenKIM/Book/tree/master/monolith-to-microservices">링크</a>]</h2>
+<summary>18. monolith-to-microservices [<a href="https://github.com/LenKIM/Book/tree/master/monolith-to-microservices">링크</a>]</h2>
 
 </summary>
 <p>
@@ -410,7 +427,7 @@
 
 
 <details>
-<summary>17. objectdesignstyleguide [<a href="https://github.com/LenKIM/Book/tree/master/objectdesignstyleguide">링크</a>]</h2>
+<summary>19. objectdesignstyleguide [<a href="https://github.com/LenKIM/Book/tree/master/objectdesignstyleguide">링크</a>]</h2>
 
 </summary>
 <p>
@@ -441,14 +458,14 @@
 </p>
 </details>
 
-18. push.py [<a href="https://github.com/LenKIM/Book/blob/master/push.py">링크</a>]</h2>
+20. push.py [<a href="https://github.com/LenKIM/Book/blob/master/push.py">링크</a>]</h2>
 
 
 
 
 
 <details>
-<summary>19. 반응형웹CSS [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9CSS">링크</a>]</h2>
+<summary>21. 반응형웹CSS [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9CSS">링크</a>]</h2>
 
 </summary>
 <p>
@@ -467,18 +484,18 @@
 </p>
 </details>
 
-20. 손에 잡히는 VIM.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%86%90%EC%97%90%20%EC%9E%A1%ED%9E%88%EB%8A%94%20VIM.md">링크</a>]</h2>
+22. 손에 잡히는 VIM.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%86%90%EC%97%90%20%EC%9E%A1%ED%9E%88%EB%8A%94%20VIM.md">링크</a>]</h2>
 
 
 
-21. 실용주의 프로그래머(The Pragmenatic Programmer).md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8(The%20Pragmenatic%20Programmer).md">링크</a>]</h2>
+23. 실용주의 프로그래머(The Pragmenatic Programmer).md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8(The%20Pragmenatic%20Programmer).md">링크</a>]</h2>
 
 
 
 
 
 <details>
-<summary>22. 안드로이드-그한계를넘어서 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B7%B8%ED%95%9C%EA%B3%84%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C">링크</a>]</h2>
+<summary>24. 안드로이드-그한계를넘어서 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B7%B8%ED%95%9C%EA%B3%84%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C">링크</a>]</h2>
 
 </summary>
 <p>
@@ -524,7 +541,7 @@
 
 
 <details>
-<summary>23. 패턴을_활용한_리팩토링 [<a href="https://github.com/LenKIM/Book/tree/master/%ED%8C%A8%ED%84%B4%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81">링크</a>]</h2>
+<summary>25. 패턴을_활용한_리팩토링 [<a href="https://github.com/LenKIM/Book/tree/master/%ED%8C%A8%ED%84%B4%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81">링크</a>]</h2>
 
 </summary>
 <p>
@@ -540,7 +557,7 @@
 
 
 <details>
-<summary>24. 함수형사고(Functional Thinking) [<a href="https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking)">링크</a>]</h2>
+<summary>26. 함수형사고(Functional Thinking) [<a href="https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking)">링크</a>]</h2>
 
 </summary>
 <p>
