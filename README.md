@@ -496,6 +496,24 @@
 &emsp;&emsp;▪️ 2장_스토리_작성하기.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/2%EC%9E%A5_%EC%8A%A4%ED%86%A0%EB%A6%AC_%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0.md">링크</a>]
 
 
+&emsp;&emsp;▪️ 3장_사용자_역할_모델링.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/3%EC%9E%A5_%EC%82%AC%EC%9A%A9%EC%9E%90_%EC%97%AD%ED%95%A0_%EB%AA%A8%EB%8D%B8%EB%A7%81.md">링크</a>]
+
+
+&emsp;&emsp;▪️ 4장_스토리_수집하기.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/4%EC%9E%A5_%EC%8A%A4%ED%86%A0%EB%A6%AC_%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0.md">링크</a>]
+
+
+&emsp;&emsp;▪️ 5장_대리사용자와_일하기.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/5%EC%9E%A5_%EB%8C%80%EB%A6%AC%EC%82%AC%EC%9A%A9%EC%9E%90%EC%99%80_%EC%9D%BC%ED%95%98%EA%B8%B0.md">링크</a>]
+
+
+&emsp;&emsp;▪️ 6장_사용자스토리_인수_테스트.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/6%EC%9E%A5_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%8A%A4%ED%86%A0%EB%A6%AC_%EC%9D%B8%EC%88%98_%ED%85%8C%EC%8A%A4%ED%8A%B8.md">링크</a>]
+
+
+&emsp;&emsp;▪️ 7장_좋은_스토리를_위한_지침.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/7%EC%9E%A5_%EC%A2%8B%EC%9D%80_%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%A5%BC_%EC%9C%84%ED%95%9C_%EC%A7%80%EC%B9%A8.md">링크</a>]
+
+
+&emsp;&emsp;▪️ 8장_사용자_스토리_추정.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/8%EC%9E%A5_%EC%82%AC%EC%9A%A9%EC%9E%90_%EC%8A%A4%ED%86%A0%EB%A6%AC_%EC%B6%94%EC%A0%95.md">링크</a>]
+
+
 &emsp;&emsp;▪️ README.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/README.md">링크</a>]
 
 
