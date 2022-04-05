@@ -2,7 +2,13 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:EEFF00,100:a82da8&height=300&section=header&text=Reading_Book&fontSize=90)
+<div align="center">
+  <h1> 책장 </h1>
+</div>
 
+<p align="center">
+  이 곳은 읽을 책을 보관하고, 필요시 책을 다시 살펴보기 위한 공간입니다.
+</p>
 [독서 목록](https://www.notion.so/likelen/44c8b34f833541c2b45ebcdf00d39286)
 
 
@@ -395,7 +401,47 @@
 
 
 <details>
-<summary>17. ddd [<a href="https://github.com/LenKIM/Book/tree/master/ddd">링크</a>]</h2>
+<summary>17. clean-architecture [<a href="https://github.com/LenKIM/Book/tree/master/clean-architecture">링크</a>]</h2>
+
+</summary>
+<p>
+&emsp;&emsp;▪️ .gitattributes [<a href="https://github.com/LenKIM/Book/blob/master/clean-architecture/.gitattributes">링크</a>]
+
+
+&emsp;&emsp;▪️ .gitignore [<a href="https://github.com/LenKIM/Book/blob/master/clean-architecture/.gitignore">링크</a>]
+
+
+&emsp;&emsp;▪️ .idea [<a href="https://github.com/LenKIM/Book/tree/master/clean-architecture/.idea">링크</a>]
+
+
+&emsp;&emsp;▪️ README.md [<a href="https://github.com/LenKIM/Book/blob/master/clean-architecture/README.md">링크</a>]
+
+
+&emsp;&emsp;▪️ build.gradle [<a href="https://github.com/LenKIM/Book/blob/master/clean-architecture/build.gradle">링크</a>]
+
+
+&emsp;&emsp;▪️ gradle [<a href="https://github.com/LenKIM/Book/tree/master/clean-architecture/gradle">링크</a>]
+
+
+&emsp;&emsp;▪️ gradlew [<a href="https://github.com/LenKIM/Book/blob/master/clean-architecture/gradlew">링크</a>]
+
+
+&emsp;&emsp;▪️ gradlew.bat [<a href="https://github.com/LenKIM/Book/blob/master/clean-architecture/gradlew.bat">링크</a>]
+
+
+&emsp;&emsp;▪️ settings.gradle [<a href="https://github.com/LenKIM/Book/blob/master/clean-architecture/settings.gradle">링크</a>]
+
+
+&emsp;&emsp;▪️ src [<a href="https://github.com/LenKIM/Book/tree/master/clean-architecture/src">링크</a>]
+
+
+</p>
+</details>
+
+
+
+<details>
+<summary>18. ddd [<a href="https://github.com/LenKIM/Book/tree/master/ddd">링크</a>]</h2>
 
 </summary>
 <p>
@@ -426,7 +472,7 @@
 
 
 <details>
-<summary>18. monolith-to-microservices [<a href="https://github.com/LenKIM/Book/tree/master/monolith-to-microservices">링크</a>]</h2>
+<summary>19. monolith-to-microservices [<a href="https://github.com/LenKIM/Book/tree/master/monolith-to-microservices">링크</a>]</h2>
 
 </summary>
 <p>
@@ -448,7 +494,7 @@
 
 
 <details>
-<summary>19. objectdesignstyleguide [<a href="https://github.com/LenKIM/Book/tree/master/objectdesignstyleguide">링크</a>]</h2>
+<summary>20. objectdesignstyleguide [<a href="https://github.com/LenKIM/Book/tree/master/objectdesignstyleguide">링크</a>]</h2>
 
 </summary>
 <p>
@@ -479,17 +525,35 @@
 </p>
 </details>
 
-20. push.py [<a href="https://github.com/LenKIM/Book/blob/master/push.py">링크</a>]</h2>
+21. push.py [<a href="https://github.com/LenKIM/Book/blob/master/push.py">링크</a>]</h2>
 
 
 
 
 
 <details>
-<summary>21. user-story [<a href="https://github.com/LenKIM/Book/tree/master/user-story">링크</a>]</h2>
+<summary>22. user-story [<a href="https://github.com/LenKIM/Book/tree/master/user-story">링크</a>]</h2>
 
 </summary>
 <p>
+&emsp;&emsp;▪️ 10장_이터레이션_계획.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/10%EC%9E%A5_%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%EC%85%98_%EA%B3%84%ED%9A%8D.md">링크</a>]
+
+
+&emsp;&emsp;▪️ 11장_속도_측정_및_모니터링.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/11%EC%9E%A5_%EC%86%8D%EB%8F%84_%EC%B8%A1%EC%A0%95_%EB%B0%8F_%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81.md">링크</a>]
+
+
+&emsp;&emsp;▪️ 12장_스토리가_아닌_것.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/12%EC%9E%A5_%EC%8A%A4%ED%86%A0%EB%A6%AC%EA%B0%80_%EC%95%84%EB%8B%8C_%EA%B2%83.md">링크</a>]
+
+
+&emsp;&emsp;▪️ 13장_왜_사용자_스토리인가?.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/13%EC%9E%A5_%EC%99%9C_%EC%82%AC%EC%9A%A9%EC%9E%90_%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%9D%B8%EA%B0%80%3F.md">링크</a>]
+
+
+&emsp;&emsp;▪️ 14장_스토리_냄새_카탈로그.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/14%EC%9E%A5_%EC%8A%A4%ED%86%A0%EB%A6%AC_%EB%83%84%EC%83%88_%EC%B9%B4%ED%83%88%EB%A1%9C%EA%B7%B8.md">링크</a>]
+
+
+&emsp;&emsp;▪️ 15장_스크럼에서_사용자_스토리_사용하기.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/15%EC%9E%A5_%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%97%90%EC%84%9C_%EC%82%AC%EC%9A%A9%EC%9E%90_%EC%8A%A4%ED%86%A0%EB%A6%AC_%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md">링크</a>]
+
+
 &emsp;&emsp;▪️ 1장_개요.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/1%EC%9E%A5_%EA%B0%9C%EC%9A%94.md">링크</a>]
 
 
@@ -514,6 +578,9 @@
 &emsp;&emsp;▪️ 8장_사용자_스토리_추정.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/8%EC%9E%A5_%EC%82%AC%EC%9A%A9%EC%9E%90_%EC%8A%A4%ED%86%A0%EB%A6%AC_%EC%B6%94%EC%A0%95.md">링크</a>]
 
 
+&emsp;&emsp;▪️ 9장_릴리즈_계획.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/9%EC%9E%A5_%EB%A6%B4%EB%A6%AC%EC%A6%88_%EA%B3%84%ED%9A%8D.md">링크</a>]
+
+
 &emsp;&emsp;▪️ README.md [<a href="https://github.com/LenKIM/Book/blob/master/user-story/README.md">링크</a>]
 
 
@@ -523,7 +590,7 @@
 
 
 <details>
-<summary>22. 반응형웹CSS [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9CSS">링크</a>]</h2>
+<summary>23. 반응형웹CSS [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9CSS">링크</a>]</h2>
 
 </summary>
 <p>
@@ -542,18 +609,18 @@
 </p>
 </details>
 
-23. 손에 잡히는 VIM.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%86%90%EC%97%90%20%EC%9E%A1%ED%9E%88%EB%8A%94%20VIM.md">링크</a>]</h2>
+24. 손에 잡히는 VIM.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%86%90%EC%97%90%20%EC%9E%A1%ED%9E%88%EB%8A%94%20VIM.md">링크</a>]</h2>
 
 
 
-24. 실용주의 프로그래머(The Pragmenatic Programmer).md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8(The%20Pragmenatic%20Programmer).md">링크</a>]</h2>
+25. 실용주의 프로그래머(The Pragmenatic Programmer).md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8(The%20Pragmenatic%20Programmer).md">링크</a>]</h2>
 
 
 
 
 
 <details>
-<summary>25. 안드로이드-그한계를넘어서 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B7%B8%ED%95%9C%EA%B3%84%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C">링크</a>]</h2>
+<summary>26. 안드로이드-그한계를넘어서 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B7%B8%ED%95%9C%EA%B3%84%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C">링크</a>]</h2>
 
 </summary>
 <p>
@@ -599,7 +666,7 @@
 
 
 <details>
-<summary>26. 패턴을_활용한_리팩토링 [<a href="https://github.com/LenKIM/Book/tree/master/%ED%8C%A8%ED%84%B4%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81">링크</a>]</h2>
+<summary>27. 패턴을_활용한_리팩토링 [<a href="https://github.com/LenKIM/Book/tree/master/%ED%8C%A8%ED%84%B4%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81">링크</a>]</h2>
 
 </summary>
 <p>
@@ -615,7 +682,7 @@
 
 
 <details>
-<summary>27. 함수형사고(Functional Thinking) [<a href="https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking)">링크</a>]</h2>
+<summary>28. 함수형사고(Functional Thinking) [<a href="https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking)">링크</a>]</h2>
 
 </summary>
 <p>
@@ -646,4 +713,9 @@
 </p>
 </details>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:EEFF00,100:a82da8&height=300&section=footer&fontSize=90)
+
+## License
+
+Provided under the terms of the CC BY-NC 4.0 License.
+
+Copyright © 2022, [Jeonggyu Kim](https://www.posquit0.com).
