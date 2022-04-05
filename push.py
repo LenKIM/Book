@@ -42,7 +42,13 @@ readme_template = """
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:EEFF00,100:a82da8&height=300&section=header&text=Reading_Book&fontSize=90)
+<div align="center">
+  <h1> 책장 </h1>
+</div>
 
+<p align="center">
+  이 곳은 읽을 책을 보관하고, 필요시 책을 다시 살펴보기 위한 공간입니다.
+</p>
 [독서 목록](https://www.notion.so/likelen/44c8b34f833541c2b45ebcdf00d39286)
 
 
@@ -64,12 +70,16 @@ for idx, item in enumerate(item_collection):
     else:
         abc = abc + name_string + "\n\n"
 
-
-
 readme_template = readme_template + abc
 
-readme_template = readme_template + "![header](https://capsule-render.vercel.app/api?type=wave&color=0:EEFF00,100:a82da8&height=300&section=footer&fontSize=90)"
+license = """
+## License
 
+Provided under the terms of the CC BY-NC 4.0 License.
+
+Copyright © 2022, [Jeonggyu Kim](https://www.posquit0.com).
+"""
+readme_template = readme_template + license
 f = open("README.md", 'w')
 f.write(readme_template)
 f.close()
