@@ -12,21 +12,21 @@ jobs:
         python-version: [ 3.7 ]
     steps:
       - name: starting-alert-release-to-slack
-          uses: 8398a7/action-slack@v3
-          with:
-            status: 'custom'
-            fields: workflow,job,commit,repo,ref,author,took
-            custom_payload: |
-              {
-                attachments: [{
-                  color: '${{ job.status }}' === 'success' ? 'good' : '${{ job.status }}' === 'failure' ? 'danger' : 'warning',
-                  text: `✨Start ${process.env.AS_JOB} (${process.env.AS_COMMIT}) of ${process.env.AS_REPO} by ${{ github.actor }}`,
-                }]
-              }
-          env:
-            SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-            MATRIX_CONTEXT: ${{ toJson(matrix) }}
-          if: always()
+        uses: 8398a7/action-slack@v3
+        with:
+          status: 'custom'
+          fields: workflow,job,commit,repo,ref,author,took
+          custom_payload: |
+            {
+              attachments: [{
+                color: '${{ job.status }}' === 'success' ? 'good' : '${{ job.status }}' === 'failure' ? 'danger' : 'warning',
+                text: `✨Start ${process.env.AS_JOB} (${process.env.AS_COMMIT}) of ${process.env.AS_REPO} by ${{ github.actor }}`,
+              }]
+            }
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          MATRIX_CONTEXT: ${{ toJson(matrix) }}
+        if: always()
       - uses: actions/checkout@v2
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v2
