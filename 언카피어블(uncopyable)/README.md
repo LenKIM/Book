@@ -7,4 +7,4 @@
 - 지은이: 짐 매켈비
 - 옮긴이: 정지현
 
-[##_Image|https://tva1.sinaimg.cn/large/e6c9d24egy1h1bqv9nevjj20nk0xc42j.jpg|CDM|1.3|{"originWidth":1440,"originHeight":1440,"style":"alignCenter","width":468,"height":468}_##]
+![](https://tva1.sinaimg.cn/mw1024/e6c9d24egy1h1bqv9nevjj20nk0xc42j.jpg)
