@@ -1,0 +1,10 @@
+
+> 해당 글은 짐 매캘 **언카피어블** 라는 책을 읽고 일부분을 갈무리하는 내용 입니다. 자세한 사항은 [YES 24 클린 코드 - 애자일 소프트웨어 장인 정신](http://www.yes24.com/Product/Goods/94875170) 에서 확인해주세요.
+
+#### **언카피어블** - 아마존을 이긴 스타트업의 따라 할 수 없는 비즈니스 전략 (짐 매켈비)
+
+- 리더스북
+- 지은이: 짐 매켈비
+- 옮긴이: 정지현
+
+[##_Image|https://tva1.sinaimg.cn/large/e6c9d24egy1h1bqv9nevjj20nk0xc42j.jpg|CDM|1.3|{"originWidth":1440,"originHeight":1440,"style":"alignCenter","width":468,"height":468}_##]
