@@ -660,6 +660,9 @@
 📙️README.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%96%B8%EC%B9%B4%ED%94%BC%EC%96%B4%EB%B8%94(uncopyable)/README.md">들여다보기 📂</a>]
 
 
+📙️capture.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%96%B8%EC%B9%B4%ED%94%BC%EC%96%B4%EB%B8%94(uncopyable)/capture.md">들여다보기 📂</a>]
+
+
 </p>
 </details>
 
