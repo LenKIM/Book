@@ -721,4 +721,4 @@
 
 Provided under the terms of the CC BY-NC 4.0 License.
 
-Copyright © 2022, [Jeonggyu Kim](https://www.posquit0.com).
+Copyright © 2022, [Jeonggyu Kim](https://happy-coding-day.tistory.com/).
