@@ -3,8 +3,10 @@
 
 #### **언카피어블** - 아마존을 이긴 스타트업의 따라 할 수 없는 비즈니스 전략 (짐 매켈비)
 
+![](https://tva1.sinaimg.cn/middle/e6c9d24egy1h1bqv9nevjj20nk0xc42j.jpg)
+
+
 - 리더스북
 - 지은이: 짐 매켈비
 - 옮긴이: 정지현
 
-![](https://tva1.sinaimg.cn/mw1024/e6c9d24egy1h1bqv9nevjj20nk0xc42j.jpg)
