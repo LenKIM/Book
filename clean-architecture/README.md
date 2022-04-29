@@ -155,3 +155,13 @@
 
 
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1curgzpnxj20wm0p6tbf.jpg)
+
+
+책을 읽고 난 뒤에 배운 점과 느낌 점을 정리한다.
+
+레이어드 아키텍쳐의 단점은 무엇인가?(1) - https://happy-coding-day.tistory.com/189
+
+레이어드 아키텍쳐의 단점은 무엇인가?(2) - https://happy-coding-day.tistory.com/223
+
+	
+헥사고날 아키텍처(Hexagonal Architecture) 코드로 이해해보기 - https://happy-coding-day.tistory.com/229
