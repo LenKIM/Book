@@ -487,7 +487,23 @@
 
 
 <details>
-<summary>20. monolith-to-microservices [<a href="https://github.com/LenKIM/Book/tree/master/monolith-to-microservices">들여다보기 📂</a>]
+<summary>20. microservice-pattern [<a href="https://github.com/LenKIM/Book/tree/master/microservice-pattern">들여다보기 📂</a>]
+
+</summary>
+<p>
+📙️2-분해전략.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/2-%EB%B6%84%ED%95%B4%EC%A0%84%EB%9E%B5.md">들여다보기 📂</a>]
+
+
+📙️README.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/README.md">들여다보기 📂</a>]
+
+
+</p>
+</details>
+
+
+
+<details>
+<summary>21. monolith-to-microservices [<a href="https://github.com/LenKIM/Book/tree/master/monolith-to-microservices">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -509,7 +525,7 @@
 
 
 <details>
-<summary>21. objectdesignstyleguide [<a href="https://github.com/LenKIM/Book/tree/master/objectdesignstyleguide">들여다보기 📂</a>]
+<summary>22. objectdesignstyleguide [<a href="https://github.com/LenKIM/Book/tree/master/objectdesignstyleguide">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -537,14 +553,14 @@
 </p>
 </details>
 
-22. push.py [<a href="https://github.com/LenKIM/Book/blob/master/push.py">들여다보기 📂</a>]
+23. push.py [<a href="https://github.com/LenKIM/Book/blob/master/push.py">들여다보기 📂</a>]
 
 
 
 
 
 <details>
-<summary>23. user-story [<a href="https://github.com/LenKIM/Book/tree/master/user-story">들여다보기 📂</a>]
+<summary>24. user-story [<a href="https://github.com/LenKIM/Book/tree/master/user-story">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -602,7 +618,7 @@
 
 
 <details>
-<summary>24. 반응형웹CSS [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9CSS">들여다보기 📂</a>]
+<summary>25. 반응형웹CSS [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9CSS">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -621,18 +637,18 @@
 </p>
 </details>
 
-25. 손에 잡히는 VIM.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%86%90%EC%97%90%20%EC%9E%A1%ED%9E%88%EB%8A%94%20VIM.md">들여다보기 📂</a>]
+26. 손에 잡히는 VIM.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%86%90%EC%97%90%20%EC%9E%A1%ED%9E%88%EB%8A%94%20VIM.md">들여다보기 📂</a>]
 
 
 
-26. 실용주의 프로그래머(The Pragmenatic Programmer).md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8(The%20Pragmenatic%20Programmer).md">들여다보기 📂</a>]
+27. 실용주의 프로그래머(The Pragmenatic Programmer).md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8(The%20Pragmenatic%20Programmer).md">들여다보기 📂</a>]
 
 
 
 
 
 <details>
-<summary>27. 안드로이드-그한계를넘어서 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B7%B8%ED%95%9C%EA%B3%84%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C">들여다보기 📂</a>]
+<summary>28. 안드로이드-그한계를넘어서 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B7%B8%ED%95%9C%EA%B3%84%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -678,7 +694,7 @@
 
 
 <details>
-<summary>28. 언카피어블(uncopyable) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%96%B8%EC%B9%B4%ED%94%BC%EC%96%B4%EB%B8%94(uncopyable)">들여다보기 📂</a>]
+<summary>29. 언카피어블(uncopyable) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%96%B8%EC%B9%B4%ED%94%BC%EC%96%B4%EB%B8%94(uncopyable)">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -694,7 +710,7 @@
 
 
 <details>
-<summary>29. 패턴을_활용한_리팩토링 [<a href="https://github.com/LenKIM/Book/tree/master/%ED%8C%A8%ED%84%B4%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81">들여다보기 📂</a>]
+<summary>30. 패턴을_활용한_리팩토링 [<a href="https://github.com/LenKIM/Book/tree/master/%ED%8C%A8%ED%84%B4%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -710,7 +726,7 @@
 
 
 <details>
-<summary>30. 함수형사고(Functional Thinking) [<a href="https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking)">들여다보기 📂</a>]
+<summary>31. 함수형사고(Functional Thinking) [<a href="https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking)">들여다보기 📂</a>]
 
 </summary>
 <p>
