@@ -494,6 +494,9 @@
 📙️2-분해전략.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/2-%EB%B6%84%ED%95%B4%EC%A0%84%EB%9E%B5.md">들여다보기 📂</a>]
 
 
+📙️3-프로세스-간-통신.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/3-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B0%84-%ED%86%B5%EC%8B%A0.md">들여다보기 📂</a>]
+
+
 📙️README.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/README.md">들여다보기 📂</a>]
 
 
