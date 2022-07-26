@@ -11,14 +11,27 @@
 </p>
 </p>
 
-0. .gitignore [<a href="https://github.com/LenKIM/Book/blob/master/.gitignore">들여다보기 📂</a>]
+
+
+<details>
+<summary>0. .github [<a href="https://github.com/LenKIM/Book/tree/master/.github">들여다보기 📂</a>]
+
+</summary>
+<p>
+📙️workflows [<a href="https://github.com/LenKIM/Book/tree/master/.github/workflows">들여다보기 📂</a>]
+
+
+</p>
+</details>
+
+1. .gitignore [<a href="https://github.com/LenKIM/Book/blob/master/.gitignore">들여다보기 📂</a>]
 
 
 
 
 
 <details>
-<summary>1. 10일 만에 끝내는 MBA [<a href="https://github.com/LenKIM/Book/tree/master/10%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EB%81%9D%EB%82%B4%EB%8A%94%20MBA">들여다보기 📂</a>]
+<summary>2. 10일 만에 끝내는 MBA [<a href="https://github.com/LenKIM/Book/tree/master/10%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EB%81%9D%EB%82%B4%EB%8A%94%20MBA">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -40,7 +53,7 @@
 
 
 <details>
-<summary>2. Clean Code [<a href="https://github.com/LenKIM/Book/tree/master/Clean%20Code">들여다보기 📂</a>]
+<summary>3. Clean Code [<a href="https://github.com/LenKIM/Book/tree/master/Clean%20Code">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -83,7 +96,7 @@
 
 
 <details>
-<summary>3. Cracking the coding interview [<a href="https://github.com/LenKIM/Book/tree/master/Cracking%20the%20coding%20interview">들여다보기 📂</a>]
+<summary>4. Cracking the coding interview [<a href="https://github.com/LenKIM/Book/tree/master/Cracking%20the%20coding%20interview">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -102,7 +115,7 @@
 
 
 <details>
-<summary>4. DDD start [<a href="https://github.com/LenKIM/Book/tree/master/DDD%20start">들여다보기 📂</a>]
+<summary>5. DDD start [<a href="https://github.com/LenKIM/Book/tree/master/DDD%20start">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -112,14 +125,14 @@
 </p>
 </details>
 
-5. Effective-Unit-Testing.md [<a href="https://github.com/LenKIM/Book/blob/master/Effective-Unit-Testing.md">들여다보기 📂</a>]
+6. Effective-Unit-Testing.md [<a href="https://github.com/LenKIM/Book/blob/master/Effective-Unit-Testing.md">들여다보기 📂</a>]
 
 
 
 
 
 <details>
-<summary>6. Elegant-object [<a href="https://github.com/LenKIM/Book/tree/master/Elegant-object">들여다보기 📂</a>]
+<summary>7. Elegant-object [<a href="https://github.com/LenKIM/Book/tree/master/Elegant-object">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -150,7 +163,7 @@
 
 
 <details>
-<summary>7. Java8 in Action [<a href="https://github.com/LenKIM/Book/tree/master/Java8%20in%20Action">들여다보기 📂</a>]
+<summary>8. Java8 in Action [<a href="https://github.com/LenKIM/Book/tree/master/Java8%20in%20Action">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -190,7 +203,7 @@
 
 
 <details>
-<summary>8. Pragmatic-unit-testing-in-java-with-junit [<a href="https://github.com/LenKIM/Book/tree/master/Pragmatic-unit-testing-in-java-with-junit">들여다보기 📂</a>]
+<summary>9. Pragmatic-unit-testing-in-java-with-junit [<a href="https://github.com/LenKIM/Book/tree/master/Pragmatic-unit-testing-in-java-with-junit">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -227,7 +240,7 @@
 
 
 <details>
-<summary>9. Pro react [<a href="https://github.com/LenKIM/Book/tree/master/Pro%20react">들여다보기 📂</a>]
+<summary>10. Pro react [<a href="https://github.com/LenKIM/Book/tree/master/Pro%20react">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -258,14 +271,14 @@
 </p>
 </details>
 
-10. README.md [<a href="https://github.com/LenKIM/Book/blob/master/README.md">들여다보기 📂</a>]
+11. README.md [<a href="https://github.com/LenKIM/Book/blob/master/README.md">들여다보기 📂</a>]
 
 
 
 
 
 <details>
-<summary>11. RxJava 프로그래밍 [<a href="https://github.com/LenKIM/Book/tree/master/RxJava%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D">들여다보기 📂</a>]
+<summary>12. RxJava 프로그래밍 [<a href="https://github.com/LenKIM/Book/tree/master/RxJava%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -311,7 +324,7 @@
 
 
 <details>
-<summary>12. SQL AntiPatterns [<a href="https://github.com/LenKIM/Book/tree/master/SQL%20AntiPatterns">들여다보기 📂</a>]
+<summary>13. SQL AntiPatterns [<a href="https://github.com/LenKIM/Book/tree/master/SQL%20AntiPatterns">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -330,7 +343,7 @@
 
 
 <details>
-<summary>13. Test-Driven-Development [<a href="https://github.com/LenKIM/Book/tree/master/Test-Driven-Development">들여다보기 📂</a>]
+<summary>14. Test-Driven-Development [<a href="https://github.com/LenKIM/Book/tree/master/Test-Driven-Development">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -364,7 +377,7 @@
 
 
 <details>
-<summary>14. UML실전에서는이것만쓴다 [<a href="https://github.com/LenKIM/Book/tree/master/UML%EC%8B%A4%EC%A0%84%EC%97%90%EC%84%9C%EB%8A%94%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%93%B4%EB%8B%A4">들여다보기 📂</a>]
+<summary>15. UML실전에서는이것만쓴다 [<a href="https://github.com/LenKIM/Book/tree/master/UML%EC%8B%A4%EC%A0%84%EC%97%90%EC%84%9C%EB%8A%94%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%93%B4%EB%8B%A4">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -389,7 +402,7 @@
 
 
 <details>
-<summary>15. YOU-DON'T-KNOW-JS [<a href="https://github.com/LenKIM/Book/tree/master/YOU-DON'T-KNOW-JS">들여다보기 📂</a>]
+<summary>16. YOU-DON'T-KNOW-JS [<a href="https://github.com/LenKIM/Book/tree/master/YOU-DON'T-KNOW-JS">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -399,14 +412,14 @@
 </p>
 </details>
 
-16. _config.yml [<a href="https://github.com/LenKIM/Book/blob/master/_config.yml">들여다보기 📂</a>]
+17. _config.yml [<a href="https://github.com/LenKIM/Book/blob/master/_config.yml">들여다보기 📂</a>]
 
 
 
 
 
 <details>
-<summary>17. building-microservices [<a href="https://github.com/LenKIM/Book/tree/master/building-microservices">들여다보기 📂</a>]
+<summary>18. building-microservices [<a href="https://github.com/LenKIM/Book/tree/master/building-microservices">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -419,7 +432,7 @@
 
 
 <details>
-<summary>18. clean-architecture [<a href="https://github.com/LenKIM/Book/tree/master/clean-architecture">들여다보기 📂</a>]
+<summary>19. clean-architecture [<a href="https://github.com/LenKIM/Book/tree/master/clean-architecture">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -456,7 +469,7 @@
 
 
 <details>
-<summary>19. ddd [<a href="https://github.com/LenKIM/Book/tree/master/ddd">들여다보기 📂</a>]
+<summary>20. ddd [<a href="https://github.com/LenKIM/Book/tree/master/ddd">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -487,7 +500,7 @@
 
 
 <details>
-<summary>20. microservice-pattern [<a href="https://github.com/LenKIM/Book/tree/master/microservice-pattern">들여다보기 📂</a>]
+<summary>21. microservice-pattern [<a href="https://github.com/LenKIM/Book/tree/master/microservice-pattern">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -495,6 +508,9 @@
 
 
 📙️3-프로세스-간-통신.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/3-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B0%84-%ED%86%B5%EC%8B%A0.md">들여다보기 📂</a>]
+
+
+📙️4-트랜잭션관리:사가.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/4-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B4%80%EB%A6%AC:%EC%82%AC%EA%B0%80.md">들여다보기 📂</a>]
 
 
 📙️README.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/README.md">들여다보기 📂</a>]
@@ -506,7 +522,7 @@
 
 
 <details>
-<summary>21. monolith-to-microservices [<a href="https://github.com/LenKIM/Book/tree/master/monolith-to-microservices">들여다보기 📂</a>]
+<summary>22. monolith-to-microservices [<a href="https://github.com/LenKIM/Book/tree/master/monolith-to-microservices">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -528,7 +544,7 @@
 
 
 <details>
-<summary>22. objectdesignstyleguide [<a href="https://github.com/LenKIM/Book/tree/master/objectdesignstyleguide">들여다보기 📂</a>]
+<summary>23. objectdesignstyleguide [<a href="https://github.com/LenKIM/Book/tree/master/objectdesignstyleguide">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -556,14 +572,14 @@
 </p>
 </details>
 
-23. push.py [<a href="https://github.com/LenKIM/Book/blob/master/push.py">들여다보기 📂</a>]
+24. push.py [<a href="https://github.com/LenKIM/Book/blob/master/push.py">들여다보기 📂</a>]
 
 
 
 
 
 <details>
-<summary>24. user-story [<a href="https://github.com/LenKIM/Book/tree/master/user-story">들여다보기 📂</a>]
+<summary>25. user-story [<a href="https://github.com/LenKIM/Book/tree/master/user-story">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -621,7 +637,7 @@
 
 
 <details>
-<summary>25. 반응형웹CSS [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9CSS">들여다보기 📂</a>]
+<summary>26. 반응형웹CSS [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9CSS">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -640,18 +656,18 @@
 </p>
 </details>
 
-26. 손에 잡히는 VIM.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%86%90%EC%97%90%20%EC%9E%A1%ED%9E%88%EB%8A%94%20VIM.md">들여다보기 📂</a>]
+27. 손에 잡히는 VIM.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%86%90%EC%97%90%20%EC%9E%A1%ED%9E%88%EB%8A%94%20VIM.md">들여다보기 📂</a>]
 
 
 
-27. 실용주의 프로그래머(The Pragmenatic Programmer).md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8(The%20Pragmenatic%20Programmer).md">들여다보기 📂</a>]
+28. 실용주의 프로그래머(The Pragmenatic Programmer).md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8(The%20Pragmenatic%20Programmer).md">들여다보기 📂</a>]
 
 
 
 
 
 <details>
-<summary>28. 안드로이드-그한계를넘어서 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B7%B8%ED%95%9C%EA%B3%84%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C">들여다보기 📂</a>]
+<summary>29. 안드로이드-그한계를넘어서 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B7%B8%ED%95%9C%EA%B3%84%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -697,7 +713,7 @@
 
 
 <details>
-<summary>29. 언카피어블(uncopyable) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%96%B8%EC%B9%B4%ED%94%BC%EC%96%B4%EB%B8%94(uncopyable)">들여다보기 📂</a>]
+<summary>30. 언카피어블(uncopyable) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%96%B8%EC%B9%B4%ED%94%BC%EC%96%B4%EB%B8%94(uncopyable)">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -713,7 +729,7 @@
 
 
 <details>
-<summary>30. 패턴을_활용한_리팩토링 [<a href="https://github.com/LenKIM/Book/tree/master/%ED%8C%A8%ED%84%B4%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81">들여다보기 📂</a>]
+<summary>31. 패턴을_활용한_리팩토링 [<a href="https://github.com/LenKIM/Book/tree/master/%ED%8C%A8%ED%84%B4%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81">들여다보기 📂</a>]
 
 </summary>
 <p>
@@ -729,7 +745,7 @@
 
 
 <details>
-<summary>31. 함수형사고(Functional Thinking) [<a href="https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking)">들여다보기 📂</a>]
+<summary>32. 함수형사고(Functional Thinking) [<a href="https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking)">들여다보기 📂</a>]
 
 </summary>
 <p>
