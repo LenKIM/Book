@@ -513,6 +513,9 @@
 📙️4-트랜잭션관리:사가.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/4-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B4%80%EB%A6%AC:%EC%82%AC%EA%B0%80.md">들여다보기 📂</a>]
 
 
+📙️5-비지니스-로직-설계.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/5-%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81-%EC%84%A4%EA%B3%84.md">들여다보기 📂</a>]
+
+
 📙️README.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/README.md">들여다보기 📂</a>]
 
 
