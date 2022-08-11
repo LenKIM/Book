@@ -44,6 +44,9 @@
 
 </summary>
 <p>
+📙️.idea [<a href="https://github.com/LenKIM/Book/tree/master/Clean%20Code/.idea">들여다보기 📂</a>]
+
+
 📙️01_What_Clean_code_is.md [<a href="https://github.com/LenKIM/Book/blob/master/Clean%20Code/01_What_Clean_code_is.md">들여다보기 📂</a>]
 
 
@@ -51,6 +54,15 @@
 
 
 📙️03_Method.md [<a href="https://github.com/LenKIM/Book/blob/master/Clean%20Code/03_Method.md">들여다보기 📂</a>]
+
+
+📙️10장-클래스.md [<a href="https://github.com/LenKIM/Book/blob/master/Clean%20Code/10%EC%9E%A5-%ED%81%B4%EB%9E%98%EC%8A%A4.md">들여다보기 📂</a>]
+
+
+📙️11장-시스템.md [<a href="https://github.com/LenKIM/Book/blob/master/Clean%20Code/11%EC%9E%A5-%EC%8B%9C%EC%8A%A4%ED%85%9C.md">들여다보기 📂</a>]
+
+
+📙️12장-창발성.md [<a href="https://github.com/LenKIM/Book/blob/master/Clean%20Code/12%EC%9E%A5-%EC%B0%BD%EB%B0%9C%EC%84%B1.md">들여다보기 📂</a>]
 
 
 📙️1장-깨끗한코드.md [<a href="https://github.com/LenKIM/Book/blob/master/Clean%20Code/1%EC%9E%A5-%EA%B9%A8%EB%81%97%ED%95%9C%EC%BD%94%EB%93%9C.md">들여다보기 📂</a>]
@@ -72,6 +84,9 @@
 
 
 📙️8장-경계.md [<a href="https://github.com/LenKIM/Book/blob/master/Clean%20Code/8%EC%9E%A5-%EA%B2%BD%EA%B3%84.md">들여다보기 📂</a>]
+
+
+📙️9장-단위테스트.md [<a href="https://github.com/LenKIM/Book/blob/master/Clean%20Code/9%EC%9E%A5-%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8.md">들여다보기 📂</a>]
 
 
 📙️README.md [<a href="https://github.com/LenKIM/Book/blob/master/Clean%20Code/README.md">들여다보기 📂</a>]
