@@ -518,6 +518,15 @@
 📙️5-비지니스-로직-설계.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/5-%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81-%EC%84%A4%EA%B3%84.md">들여다보기 📂</a>]
 
 
+📙️6-비지니스로직개발:이벤트소싱.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/6-%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4%EB%A1%9C%EC%A7%81%EA%B0%9C%EB%B0%9C:%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%86%8C%EC%8B%B1.md">들여다보기 📂</a>]
+
+
+📙️7-마이크로서비스 쿼리 구현.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/7-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%BF%BC%EB%A6%AC%20%EA%B5%AC%ED%98%84.md">들여다보기 📂</a>]
+
+
+📙️8-외부 API 설계 이슈.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/8-%EC%99%B8%EB%B6%80%20API%20%EC%84%A4%EA%B3%84%20%EC%9D%B4%EC%8A%88.md">들여다보기 📂</a>]
+
+
 📙️README.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/README.md">들여다보기 📂</a>]
 
 
