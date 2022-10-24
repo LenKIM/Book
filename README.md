@@ -120,10 +120,6 @@
 </h3></p>
 </details>
 
-5. Effective-Unit-Testing.md [<a href="https://github.com/LenKIM/Book/blob/master/Effective-Unit-Testing.md">들여다보기 📂</a>]
-
-
-
 
 
 <details align="center">
@@ -247,10 +243,6 @@
 
 </h3></p>
 </details>
-
-10. README.md [<a href="https://github.com/LenKIM/Book/blob/master/README.md">들여다보기 📂</a>]
-
-
 
 
 
@@ -543,14 +535,6 @@
 <br><p>
 </h3></p>
 </details>
-
-26. 손에 잡히는 VIM.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%86%90%EC%97%90%20%EC%9E%A1%ED%9E%88%EB%8A%94%20VIM.md">들여다보기 📂</a>]
-
-
-
-27. 실용주의 프로그래머(The Pragmenatic Programmer).md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8(The%20Pragmenatic%20Programmer).md">들여다보기 📂</a>]
-
-
 
 
 
