@@ -14,7 +14,7 @@
 
 
 <details>
-<summary>**1. 10일 만에 끝내는 MBA** [<a href="https://github.com/LenKIM/Book/tree/master/10%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EB%81%9D%EB%82%B4%EB%8A%94%20MBA">들여다보기 📂</a>]
+<summary><b>1. 10일 만에 끝내는 MBA</b> [<a href="https://github.com/LenKIM/Book/tree/master/10%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EB%81%9D%EB%82%B4%EB%8A%94%20MBA">들여다보기 📂</a>]
 
 </summary>
 <p style="background-color: #4a4a4a">
