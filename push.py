@@ -76,7 +76,7 @@ for idx, item in enumerate(item_collection):
         if not item["name"].endswith('.md'):
             continue
 
-        abc = abc + name_string + "\n\n"
+        # abc = abc + name_string + "\n\n"
 
 readme_header_template = readme_header_template + abc
 
