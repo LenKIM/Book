@@ -17,9 +17,9 @@
 <summary><h2><b>1. 10일 만에 끝내는 MBA</b>[<a href="https://github.com/LenKIM/Book/tree/master/10%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EB%81%9D%EB%82%B4%EB%8A%94%20MBA">들여다보기 📂</a>]
 </h2>
 </summary>
-<p style="margin-left: 20px">
+<p>
 <br>
-            •️ 1일차_마케팅.md [<a href="https://github.com/LenKIM/Book/blob/master/10%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EB%81%9D%EB%82%B4%EB%8A%94%20MBA/1%EC%9D%BC%EC%B0%A8_%EB%A7%88%EC%BC%80%ED%8C%85.md">들여다보기 📂</a>]
+<p style="margin-left: 20px">•️ 1일차_마케팅.md [<a href="https://github.com/LenKIM/Book/blob/master/10%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EB%81%9D%EB%82%B4%EB%8A%94%20MBA/1%EC%9D%BC%EC%B0%A8_%EB%A7%88%EC%BC%80%ED%8C%85.md">들여다보기 📂</a>]</p>
 
 
 •️ 2일차_윤리학.md [<a href="https://github.com/LenKIM/Book/blob/master/10%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EB%81%9D%EB%82%B4%EB%8A%94%20MBA/2%EC%9D%BC%EC%B0%A8_%EC%9C%A4%EB%A6%AC%ED%95%99.md">들여다보기 📂</a>]
