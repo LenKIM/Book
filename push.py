@@ -73,7 +73,7 @@ for idx, item in enumerate(item_collection):
         sub_strings = sub_strings + "</details>\n\n"
         abc = abc + sub_strings
     else:
-        if not item["path"].endswith('.md'):
+        if not item["name"].endswith('.md'):
             continue
 
         abc = abc + name_string + "\n\n"
