@@ -17,6 +17,9 @@
 <summary>1. 10일 만에 끝내는 MBA [<a href="https://github.com/LenKIM/Book/tree/master/10%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EB%81%9D%EB%82%B4%EB%8A%94%20MBA">들여다보기 📂</a>]
 
 </summary>
+<br>
+<br>
+
 <p>
 •️ 1일차_마케팅.md [<a href="https://github.com/LenKIM/Book/blob/master/10%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EB%81%9D%EB%82%B4%EB%8A%94%20MBA/1%EC%9D%BC%EC%B0%A8_%EB%A7%88%EC%BC%80%ED%8C%85.md">들여다보기 📂</a>]
 
