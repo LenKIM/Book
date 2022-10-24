@@ -65,13 +65,17 @@ for idx, item in enumerate(item_collection):
         for idx, sub_item in enumerate(item["sub_files"]):
             if sub_item["sub_file_name"] == ".gitignore":
                 continue
-            sub_name_string = "📙️" + sub_item["sub_file_name"] + " [<a" + " href=" + "\"" + sub_item[
-                "sub_file_html_url"] + "\"" + ">들여다보기 📂</a>]" + '\n\n\n'
+            if not sub_item["sub_file_name"].endswith('.md'):
+                continue
+            sub_name_string = "•️ " + sub_item["sub_file_name"] + " [<a" + " href=" + "\"" + sub_item["sub_file_html_url"] + "\"" + ">들여다보기 📂</a>]" + '\n\n\n'
             sub_strings = sub_strings + sub_name_string
         sub_strings = sub_strings + "</p>\n"
         sub_strings = sub_strings + "</details>\n\n"
         abc = abc + sub_strings
     else:
+        if not item["path"].endswith('.md'):
+            continue
+
         abc = abc + name_string + "\n\n"
 
 readme_header_template = readme_header_template + abc
