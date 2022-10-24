@@ -59,17 +59,17 @@ for idx, item in enumerate(item_collection):
 
     if item["type"] == "dir":
         sub_strings = "\n\n"
-        sub_strings = sub_strings + "<details>\n"
-        sub_strings = sub_strings + "<summary>" + name_string + "</summary>\n"
-        sub_strings = sub_strings + "<p>\n"
+        sub_strings = sub_strings + """<details align="center">\n"""
+        sub_strings = sub_strings + "<summary>" + "<h2><b>" + name_string + "</h2><b>"+"</summary>\n"
+        sub_strings = sub_strings + "<br><p>\n"
         for idx, sub_item in enumerate(item["sub_files"]):
             if sub_item["sub_file_name"] == ".gitignore":
                 continue
             if not sub_item["sub_file_name"].endswith('.md'):
                 continue
-            sub_name_string = "•️ " + sub_item["sub_file_name"] + " [<a" + " href=" + "\"" + sub_item["sub_file_html_url"] + "\"" + ">들여다보기 📂</a>]" + '\n\n\n'
+            sub_name_string = "<h3> •️ " + sub_item["sub_file_name"] + " [<a" + " href=" + "\"" + sub_item["sub_file_html_url"] + "\"" + ">들여다보기 📂</a>]" + '\n\n\n'
             sub_strings = sub_strings + sub_name_string
-        sub_strings = sub_strings + "</p>\n"
+        sub_strings = sub_strings + "</h3></p>\n"
         sub_strings = sub_strings + "</details>\n\n"
         abc = abc + sub_strings
     else:
