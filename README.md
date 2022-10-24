@@ -29,9 +29,8 @@
 
 
 •️ README.md [<a href="https://github.com/LenKIM/Book/blob/master/10%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EB%81%9D%EB%82%B4%EB%8A%94%20MBA/README.md">들여다보기 📂</a>]
-<br>
-
 </p>
+    <br>
 </details>
 
 
