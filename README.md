@@ -506,6 +506,9 @@
 
 </summary>
 <p>
+📙️11장_프로덕션_레디_서비스개발_.pdf [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/11%EC%9E%A5_%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98_%EB%A0%88%EB%94%94_%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9C_.pdf">들여다보기 📂</a>]
+
+
 📙️2-분해전략.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/2-%EB%B6%84%ED%95%B4%EC%A0%84%EB%9E%B5.md">들여다보기 📂</a>]
 
 
@@ -525,6 +528,12 @@
 
 
 📙️8-외부 API 설계 이슈.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/8-%EC%99%B8%EB%B6%80%20API%20%EC%84%A4%EA%B3%84%20%EC%9D%B4%EC%8A%88.md">들여다보기 📂</a>]
+
+
+📙️9-마이크로서비스테스트.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/9-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%ED%85%8C%EC%8A%A4%ED%8A%B8.md">들여다보기 📂</a>]
+
+
+📙️API Composition과 CQRS.pdf [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/API%20Composition%EA%B3%BC%20CQRS.pdf">들여다보기 📂</a>]
 
 
 📙️README.md [<a href="https://github.com/LenKIM/Book/blob/master/microservice-pattern/README.md">들여다보기 📂</a>]
