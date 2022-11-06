@@ -471,7 +471,20 @@
 
 
 <details align="center">
-<summary><h2><b>24. user-story [<a href="https://github.com/LenKIM/Book/tree/master/user-story">들여다보기 📂</a>]
+<summary><h2><b>24. the-design-of-web-apis [<a href="https://github.com/LenKIM/Book/tree/master/the-design-of-web-apis">들여다보기 📂</a>]
+
+</h2><b></summary>
+<br><p>
+<h3> •️ 5_직관적인_API디자인하기.md [<a href="https://github.com/LenKIM/Book/blob/master/the-design-of-web-apis/5_%EC%A7%81%EA%B4%80%EC%A0%81%EC%9D%B8_API%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EA%B8%B0.md">들여다보기 📂</a>]
+
+
+</h3></p>
+</details>
+
+
+
+<details align="center">
+<summary><h2><b>25. user-story [<a href="https://github.com/LenKIM/Book/tree/master/user-story">들여다보기 📂</a>]
 
 </h2><b></summary>
 <br><p>
@@ -529,7 +542,7 @@
 
 
 <details align="center">
-<summary><h2><b>25. 반응형웹CSS [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9CSS">들여다보기 📂</a>]
+<summary><h2><b>26. 반응형웹CSS [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9CSS">들여다보기 📂</a>]
 
 </h2><b></summary>
 <br><p>
@@ -539,7 +552,7 @@
 
 
 <details align="center">
-<summary><h2><b>28. 안드로이드-그한계를넘어서 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B7%B8%ED%95%9C%EA%B3%84%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C">들여다보기 📂</a>]
+<summary><h2><b>29. 안드로이드-그한계를넘어서 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B7%B8%ED%95%9C%EA%B3%84%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C">들여다보기 📂</a>]
 
 </h2><b></summary>
 <br><p>
@@ -585,7 +598,7 @@
 
 
 <details align="center">
-<summary><h2><b>29. 언카피어블(uncopyable) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%96%B8%EC%B9%B4%ED%94%BC%EC%96%B4%EB%B8%94(uncopyable)">들여다보기 📂</a>]
+<summary><h2><b>30. 언카피어블(uncopyable) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%96%B8%EC%B9%B4%ED%94%BC%EC%96%B4%EB%B8%94(uncopyable)">들여다보기 📂</a>]
 
 </h2><b></summary>
 <br><p>
@@ -601,7 +614,7 @@
 
 
 <details align="center">
-<summary><h2><b>30. 패턴을_활용한_리팩토링 [<a href="https://github.com/LenKIM/Book/tree/master/%ED%8C%A8%ED%84%B4%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81">들여다보기 📂</a>]
+<summary><h2><b>31. 패턴을_활용한_리팩토링 [<a href="https://github.com/LenKIM/Book/tree/master/%ED%8C%A8%ED%84%B4%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81">들여다보기 📂</a>]
 
 </h2><b></summary>
 <br><p>
@@ -617,7 +630,7 @@
 
 
 <details align="center">
-<summary><h2><b>31. 함수형사고(Functional Thinking) [<a href="https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking)">들여다보기 📂</a>]
+<summary><h2><b>32. 함수형사고(Functional Thinking) [<a href="https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking)">들여다보기 📂</a>]
 
 </h2><b></summary>
 <br><p>
