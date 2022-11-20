@@ -478,6 +478,9 @@
 <h3> •️ 5_직관적인_API디자인하기.md [<a href="https://github.com/LenKIM/Book/blob/master/the-design-of-web-apis/5_%EC%A7%81%EA%B4%80%EC%A0%81%EC%9D%B8_API%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EA%B8%B0.md">들여다보기 📂</a>]
 
 
+<h3> •️ 6_예측_가능한_API_디자인하기.md [<a href="https://github.com/LenKIM/Book/blob/master/the-design-of-web-apis/6_%EC%98%88%EC%B8%A1_%EA%B0%80%EB%8A%A5%ED%95%9C_API_%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EA%B8%B0.md">들여다보기 📂</a>]
+
+
 </h3></p>
 </details>
 
