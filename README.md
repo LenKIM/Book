@@ -123,6 +123,15 @@
 <h3> •️ 3-애그리거트.md [<a href="https://github.com/LenKIM/Book/blob/master/DDD%20start/3-%EC%95%A0%EA%B7%B8%EB%A6%AC%EA%B1%B0%ED%8A%B8.md">들여다보기 📂</a>]
 
 
+<h3> •️ 6-응용서비스와-표현영역.md [<a href="https://github.com/LenKIM/Book/blob/master/DDD%20start/6-%EC%9D%91%EC%9A%A9%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80-%ED%91%9C%ED%98%84%EC%98%81%EC%97%AD.md">들여다보기 📂</a>]
+
+
+<h3> •️ 7-도메인서비스.md [<a href="https://github.com/LenKIM/Book/blob/master/DDD%20start/7-%EB%8F%84%EB%A9%94%EC%9D%B8%EC%84%9C%EB%B9%84%EC%8A%A4.md">들여다보기 📂</a>]
+
+
+<h3> •️ 8-어그리거트트랜잭션.md [<a href="https://github.com/LenKIM/Book/blob/master/DDD%20start/8-%EC%96%B4%EA%B7%B8%EB%A6%AC%EA%B1%B0%ED%8A%B8%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md">들여다보기 📂</a>]
+
+
 <h3> •️ [1주차]01-02Chapter.md [<a href="https://github.com/LenKIM/Book/blob/master/DDD%20start/[1%EC%A3%BC%EC%B0%A8]01-02Chapter.md">들여다보기 📂</a>]
 
 
