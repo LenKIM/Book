@@ -1,4 +1,4 @@
-name: test_params_pass
+name: make README.md
 
 on:
   pull_request:
