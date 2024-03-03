@@ -21,7 +21,6 @@ import com.likelen.ConsistentHashRouter;
 import com.likelen.Node;
 
 import java.util.Arrays;
-import java.util.SortedMap;
 
 /**
  * a sample usage for routing a request to services based on requester ip
@@ -76,6 +75,7 @@ public class MyServiceNode implements Node {
         consistentHashRouter.removeNode(node3);
         System.out.println("-------------remove node online " + node3.getKey() + "------------");
         goRoute(consistentHashRouter, requestIP1, requestIP2, requestIP3, requestIP4, requestIP5);
+
 
 
     }
