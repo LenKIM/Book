@@ -652,7 +652,23 @@
 
 
 <details align="center">
-<summary><h2><b>28. 도메인주도설계-에릭에반스 [<a href="https://github.com/LenKIM/Book/tree/master/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%A3%BC%EB%8F%84%EC%84%A4%EA%B3%84-%EC%97%90%EB%A6%AD%EC%97%90%EB%B0%98%EC%8A%A4">들여다보기 📂</a>]
+<summary><h2><b>28. 가상면접 사례로 배우는 대규모 시스템 설계 기초 [<a href="https://github.com/LenKIM/Book/tree/master/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91%20%EC%82%AC%EB%A1%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EA%B8%B0%EC%B4%88">들여다보기 📂</a>]
+
+</h2><b></summary>
+<br><p>
+<h3> •️ 5장-안정해시설계.md [<a href="https://github.com/LenKIM/Book/blob/master/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91%20%EC%82%AC%EB%A1%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EA%B8%B0%EC%B4%88/5%EC%9E%A5-%EC%95%88%EC%A0%95%ED%95%B4%EC%8B%9C%EC%84%A4%EA%B3%84.md">들여다보기 📂</a>]
+
+
+<h3> •️ README.md [<a href="https://github.com/LenKIM/Book/blob/master/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91%20%EC%82%AC%EB%A1%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EA%B8%B0%EC%B4%88/README.md">들여다보기 📂</a>]
+
+
+</h3></p>
+</details>
+
+
+
+<details align="center">
+<summary><h2><b>29. 도메인주도설계-에릭에반스 [<a href="https://github.com/LenKIM/Book/tree/master/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%A3%BC%EB%8F%84%EC%84%A4%EA%B3%84-%EC%97%90%EB%A6%AD%EC%97%90%EB%B0%98%EC%8A%A4">들여다보기 📂</a>]
 
 </h2><b></summary>
 <br><p>
@@ -710,7 +726,7 @@
 
 
 <details align="center">
-<summary><h2><b>29. 반응형웹CSS [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9CSS">들여다보기 📂</a>]
+<summary><h2><b>30. 반응형웹CSS [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9CSS">들여다보기 📂</a>]
 
 </h2><b></summary>
 <br><p>
@@ -720,7 +736,7 @@
 
 
 <details align="center">
-<summary><h2><b>32. 안드로이드-그한계를넘어서 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B7%B8%ED%95%9C%EA%B3%84%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C">들여다보기 📂</a>]
+<summary><h2><b>33. 안드로이드-그한계를넘어서 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B7%B8%ED%95%9C%EA%B3%84%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C">들여다보기 📂</a>]
 
 </h2><b></summary>
 <br><p>
@@ -766,7 +782,7 @@
 
 
 <details align="center">
-<summary><h2><b>33. 언카피어블(uncopyable) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%96%B8%EC%B9%B4%ED%94%BC%EC%96%B4%EB%B8%94(uncopyable)">들여다보기 📂</a>]
+<summary><h2><b>34. 언카피어블(uncopyable) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%96%B8%EC%B9%B4%ED%94%BC%EC%96%B4%EB%B8%94(uncopyable)">들여다보기 📂</a>]
 
 </h2><b></summary>
 <br><p>
@@ -782,7 +798,7 @@
 
 
 <details align="center">
-<summary><h2><b>34. 이펙티브 소프트웨어 테스팅(effective software testing) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%85%8C%EC%8A%A4%ED%8C%85(effective%20software%20testing)">들여다보기 📂</a>]
+<summary><h2><b>35. 이펙티브 소프트웨어 테스팅(effective software testing) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%85%8C%EC%8A%A4%ED%8C%85(effective%20software%20testing)">들여다보기 📂</a>]
 
 </h2><b></summary>
 <br><p>
@@ -798,6 +814,18 @@
 <h3> •️ 4장. 계약 설계.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%85%8C%EC%8A%A4%ED%8C%85(effective%20software%20testing)/4%EC%9E%A5.%20%EA%B3%84%EC%95%BD%20%EC%84%A4%EA%B3%84.md">들여다보기 📂</a>]
 
 
+<h3> •️ 5장. 속성 기반 테스트.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%85%8C%EC%8A%A4%ED%8C%85(effective%20software%20testing)/5%EC%9E%A5.%20%EC%86%8D%EC%84%B1%20%EA%B8%B0%EB%B0%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md">들여다보기 📂</a>]
+
+
+<h3> •️ 6장. 테스트 더블과 모의 객체.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%85%8C%EC%8A%A4%ED%8C%85(effective%20software%20testing)/6%EC%9E%A5.%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%8D%94%EB%B8%94%EA%B3%BC%20%EB%AA%A8%EC%9D%98%20%EA%B0%9D%EC%B2%B4.md">들여다보기 📂</a>]
+
+
+<h3> •️ 7장. 테스트 가능성을 위한 설계.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%85%8C%EC%8A%A4%ED%8C%85(effective%20software%20testing)/7%EC%9E%A5.%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%84%A4%EA%B3%84.md">들여다보기 📂</a>]
+
+
+<h3> •️ 8장. 테스트 주도 개발.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%85%8C%EC%8A%A4%ED%8C%85(effective%20software%20testing)/8%EC%9E%A5.%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A3%BC%EB%8F%84%20%EA%B0%9C%EB%B0%9C.md">들여다보기 📂</a>]
+
+
 <h3> •️ README.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%85%8C%EC%8A%A4%ED%8C%85(effective%20software%20testing)/README.md">들여다보기 📂</a>]
 
 
@@ -807,7 +835,7 @@
 
 
 <details align="center">
-<summary><h2><b>35. 진화적 아키텍쳐(BuildingEvolutionaryArchitechtures) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%A7%84%ED%99%94%EC%A0%81%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90(BuildingEvolutionaryArchitechtures)">들여다보기 📂</a>]
+<summary><h2><b>36. 진화적 아키텍쳐(BuildingEvolutionaryArchitechtures) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%A7%84%ED%99%94%EC%A0%81%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90(BuildingEvolutionaryArchitechtures)">들여다보기 📂</a>]
 
 </h2><b></summary>
 <br><p>
@@ -820,13 +848,16 @@
 <h3> •️ README.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%A7%84%ED%99%94%EC%A0%81%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90(BuildingEvolutionaryArchitechtures)/README.md">들여다보기 📂</a>]
 
 
+<h3> •️ Untitled.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%A7%84%ED%99%94%EC%A0%81%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90(BuildingEvolutionaryArchitechtures)/Untitled.md">들여다보기 📂</a>]
+
+
 </h3></p>
 </details>
 
 
 
 <details align="center">
-<summary><h2><b>36. 패턴을_활용한_리팩토링 [<a href="https://github.com/LenKIM/Book/tree/master/%ED%8C%A8%ED%84%B4%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81">들여다보기 📂</a>]
+<summary><h2><b>37. 패턴을_활용한_리팩토링 [<a href="https://github.com/LenKIM/Book/tree/master/%ED%8C%A8%ED%84%B4%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81">들여다보기 📂</a>]
 
 </h2><b></summary>
 <br><p>
@@ -842,7 +873,7 @@
 
 
 <details align="center">
-<summary><h2><b>37. 함수형사고(Functional Thinking) [<a href="https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking)">들여다보기 📂</a>]
+<summary><h2><b>38. 함수형사고(Functional Thinking) [<a href="https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking)">들여다보기 📂</a>]
 
 </h2><b></summary>
 <br><p>
