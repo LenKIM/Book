@@ -94,7 +94,9 @@ public class ConsistentHashRouter<T extends Node> {
         Long hashVal = hashFunction.hash(objectKey);
         SortedMap<Long, VirtualNode<T>> tailMap = ring.tailMap(hashVal);
         Long nodeHashVal = !tailMap.isEmpty() ? tailMap.firstKey() : ring.firstKey();
+        ConcurrentHashMap
         return ring.get(nodeHashVal).getPhysicalNode();
+
     }
 
 
