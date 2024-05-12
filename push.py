@@ -47,31 +47,35 @@ readme_header_template = """
 <p align="center">
     이 곳은 읽은 책을 보관하고, 필요시 책을 다시 살펴보기 위한 공간입니다.
 <p align="center">
-    <a href="https://www.notion.so/likelen/44c8b34f833541c2b45ebcdf00d39286">책 목록</a>
+    <a href="https://www.notion.so/likelen/44c8b34f833541c2b45ebcdf00d39286">책 목록보기 노션 링크</a>
 </p>
 </p>
 
 """
 abc = ""
+i = 1
 for idx, item in enumerate(item_collection):
-    name_string = str(idx) + '. ' + item["name"] + " [<a" + " href=" + "\"" + item[
+    if idx == 0:
+        continue
+    name_string = str(i) + '. ' + item["name"] + " [<a" + " href=" + "\"" + item[
         "html_url"] + "\"" + ">들여다보기 📂</a>]" + '\n\n'
 
     if item["type"] == "dir":
         sub_strings = "\n\n"
-        sub_strings = sub_strings + """<details align="center">\n"""
-        sub_strings = sub_strings + "<summary>" + "<h2><b>" + name_string + "</h2><b>"+"</summary>\n"
+        sub_strings = sub_strings + """<details align="left">\n"""
+        sub_strings = sub_strings + "<summary>" + "" + name_string + ""+"</summary>\n"
         sub_strings = sub_strings + "<br><p>\n"
         for idx, sub_item in enumerate(item["sub_files"]):
             if sub_item["sub_file_name"] == ".gitignore":
                 continue
             if not sub_item["sub_file_name"].endswith('.md'):
                 continue
-            sub_name_string = "<h3> •️ " + sub_item["sub_file_name"] + " [<a" + " href=" + "\"" + sub_item["sub_file_html_url"] + "\"" + ">들여다보기 📂</a>]" + '\n\n\n'
+            sub_name_string = "<h4> •️ " + sub_item["sub_file_name"] + " [<a" + " href=" + "\"" + sub_item["sub_file_html_url"] + "\"" + ">들여다보기 📂</a>]" + '\n\n\n'
             sub_strings = sub_strings + sub_name_string
-        sub_strings = sub_strings + "</h3></p>\n"
+        sub_strings = sub_strings + "</h4></p>\n"
         sub_strings = sub_strings + "</details>\n\n"
         abc = abc + sub_strings
+        i = i+1
     else:
         if not item["name"].endswith('.md'):
             continue
