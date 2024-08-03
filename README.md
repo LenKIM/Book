@@ -759,7 +759,23 @@
 
 
 <details align="left">
-<summary>26. 반응형웹CSS [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9CSS">들여다보기 📂</a>]
+<summary>26. 모던자바인액션 [<a href="https://github.com/LenKIM/Book/tree/master/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%9D%B8%EC%95%A1%EC%85%98">들여다보기 📂</a>]
+
+</summary>
+<br><p>
+<h4> •️ CHAPTER 15 CompletableFuture와 리액티브 프로그래밍 컨셉의 기초.md [<a href="https://github.com/LenKIM/Book/blob/master/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%9D%B8%EC%95%A1%EC%85%98/CHAPTER%2015%20CompletableFuture%EC%99%80%20%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%BB%A8%EC%85%89%EC%9D%98%20%EA%B8%B0%EC%B4%88.md">들여다보기 📂</a>]
+
+
+<h4> •️ CHAPTER 16 CompletableFuture_안정적 비동기 프로그래밍.md [<a href="https://github.com/LenKIM/Book/blob/master/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%9D%B8%EC%95%A1%EC%85%98/CHAPTER%2016%20CompletableFuture_%EC%95%88%EC%A0%95%EC%A0%81%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md">들여다보기 📂</a>]
+
+
+</h4></p>
+</details>
+
+
+
+<details align="left">
+<summary>27. 반응형웹CSS [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9CSS">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -769,7 +785,7 @@
 
 
 <details align="left">
-<summary>27. 분산 컴퓨팅 [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B6%84%EC%82%B0%20%EC%BB%B4%ED%93%A8%ED%8C%85">들여다보기 📂</a>]
+<summary>28. 분산 컴퓨팅 [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B6%84%EC%82%B0%20%EC%BB%B4%ED%93%A8%ED%8C%85">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -777,6 +793,12 @@
 
 
 <h4> •️ 2장 중계자와 2단계 커밋 프로토콜.md [<a href="https://github.com/LenKIM/Book/blob/master/%EB%B6%84%EC%82%B0%20%EC%BB%B4%ED%93%A8%ED%8C%85/2%EC%9E%A5%20%EC%A4%91%EA%B3%84%EC%9E%90%EC%99%80%202%EB%8B%A8%EA%B3%84%20%EC%BB%A4%EB%B0%8B%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md">들여다보기 📂</a>]
+
+
+<h4> •️ 3장-시간동기화문제와논리적시계.md [<a href="https://github.com/LenKIM/Book/blob/master/%EB%B6%84%EC%82%B0%20%EC%BB%B4%ED%93%A8%ED%8C%85/3%EC%9E%A5-%EC%8B%9C%EA%B0%84%EB%8F%99%EA%B8%B0%ED%99%94%EB%AC%B8%EC%A0%9C%EC%99%80%EB%85%BC%EB%A6%AC%EC%A0%81%EC%8B%9C%EA%B3%84.md">들여다보기 📂</a>]
+
+
+<h4> •️ 4장-CAP과 FLP정리.md [<a href="https://github.com/LenKIM/Book/blob/master/%EB%B6%84%EC%82%B0%20%EC%BB%B4%ED%93%A8%ED%8C%85/4%EC%9E%A5-CAP%EA%B3%BC%20FLP%EC%A0%95%EB%A6%AC.md">들여다보기 📂</a>]
 
 
 <h4> •️ README.md [<a href="https://github.com/LenKIM/Book/blob/master/%EB%B6%84%EC%82%B0%20%EC%BB%B4%ED%93%A8%ED%8C%85/README.md">들여다보기 📂</a>]
@@ -788,7 +810,7 @@
 
 
 <details align="left">
-<summary>28. 안드로이드-그한계를넘어서 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B7%B8%ED%95%9C%EA%B3%84%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C">들여다보기 📂</a>]
+<summary>29. 안드로이드-그한계를넘어서 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B7%B8%ED%95%9C%EA%B3%84%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -834,7 +856,7 @@
 
 
 <details align="left">
-<summary>29. 언카피어블(uncopyable) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%96%B8%EC%B9%B4%ED%94%BC%EC%96%B4%EB%B8%94(uncopyable)">들여다보기 📂</a>]
+<summary>30. 언카피어블(uncopyable) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%96%B8%EC%B9%B4%ED%94%BC%EC%96%B4%EB%B8%94(uncopyable)">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -850,7 +872,23 @@
 
 
 <details align="left">
-<summary>30. 이펙티브 소프트웨어 테스팅(effective software testing) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%85%8C%EC%8A%A4%ED%8C%85(effective%20software%20testing)">들여다보기 📂</a>]
+<summary>31. 웹API설계원칙 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%9B%B9API%EC%84%A4%EA%B3%84%EC%9B%90%EC%B9%99">들여다보기 📂</a>]
+
+</summary>
+<br><p>
+<h4> •️ 1-3장.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%9B%B9API%EC%84%A4%EA%B3%84%EC%9B%90%EC%B9%99/1-3%EC%9E%A5.md">들여다보기 📂</a>]
+
+
+<h4> •️ README.md [<a href="https://github.com/LenKIM/Book/blob/master/%EC%9B%B9API%EC%84%A4%EA%B3%84%EC%9B%90%EC%B9%99/README.md">들여다보기 📂</a>]
+
+
+</h4></p>
+</details>
+
+
+
+<details align="left">
+<summary>32. 이펙티브 소프트웨어 테스팅(effective software testing) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%85%8C%EC%8A%A4%ED%8C%85(effective%20software%20testing)">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -887,7 +925,7 @@
 
 
 <details align="left">
-<summary>31. 자바 병렬 프로그래밍 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%9E%90%EB%B0%94%20%EB%B3%91%EB%A0%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D">들여다보기 📂</a>]
+<summary>33. 자바 병렬 프로그래밍 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%9E%90%EB%B0%94%20%EB%B3%91%EB%A0%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -942,7 +980,7 @@
 
 
 <details align="left">
-<summary>32. 진화적 아키텍쳐(BuildingEvolutionaryArchitechtures) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%A7%84%ED%99%94%EC%A0%81%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90(BuildingEvolutionaryArchitechtures)">들여다보기 📂</a>]
+<summary>34. 진화적 아키텍쳐(BuildingEvolutionaryArchitechtures) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%A7%84%ED%99%94%EC%A0%81%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90(BuildingEvolutionaryArchitechtures)">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -964,7 +1002,7 @@
 
 
 <details align="left">
-<summary>33. 패턴을_활용한_리팩토링 [<a href="https://github.com/LenKIM/Book/tree/master/%ED%8C%A8%ED%84%B4%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81">들여다보기 📂</a>]
+<summary>35. 패턴을_활용한_리팩토링 [<a href="https://github.com/LenKIM/Book/tree/master/%ED%8C%A8%ED%84%B4%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -980,7 +1018,7 @@
 
 
 <details align="left">
-<summary>34. 함수형사고(Functional Thinking) [<a href="https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking)">들여다보기 📂</a>]
+<summary>36. 함수형사고(Functional Thinking) [<a href="https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking)">들여다보기 📂</a>]
 
 </summary>
 <br><p>
