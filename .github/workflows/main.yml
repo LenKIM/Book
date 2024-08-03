@@ -3,7 +3,9 @@ name: make README.md
 on:
   pull_request:
     branches: [ master ]
-
+  push:
+    branches:
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,3 +25,7 @@ jobs:
       - name: Run Python
         run: |
           python3 push.py ${{ secrets.TOKEN }}
+      - name: echo Test
+        run: |
+          echo ${{ secrets.TEST }}
+          
