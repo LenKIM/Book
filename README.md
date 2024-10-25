@@ -381,6 +381,12 @@
 <h4> •️ [3]클래스 다이어그램.md [<a href="https://github.com/LenKIM/Book/blob/master/UML%EC%8B%A4%EC%A0%84%EC%97%90%EC%84%9C%EB%8A%94%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%93%B4%EB%8B%A4/[3]%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.md">들여다보기 📂</a>]
 
 
+<h4> •️ [4]시퀀스다이어그램.md [<a href="https://github.com/LenKIM/Book/blob/master/UML%EC%8B%A4%EC%A0%84%EC%97%90%EC%84%9C%EB%8A%94%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%93%B4%EB%8B%A4/[4]%EC%8B%9C%ED%80%80%EC%8A%A4%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.md">들여다보기 📂</a>]
+
+
+<h4> •️ [5]유스케이스.md [<a href="https://github.com/LenKIM/Book/blob/master/UML%EC%8B%A4%EC%A0%84%EC%97%90%EC%84%9C%EB%8A%94%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%93%B4%EB%8B%A4/[5]%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4.md">들여다보기 📂</a>]
+
+
 <h4> •️ template.md [<a href="https://github.com/LenKIM/Book/blob/master/UML%EC%8B%A4%EC%A0%84%EC%97%90%EC%84%9C%EB%8A%94%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%93%B4%EB%8B%A4/template.md">들여다보기 📂</a>]
 
 
@@ -446,7 +452,17 @@
 
 
 <details align="left">
-<summary>16. building-microservices [<a href="https://github.com/LenKIM/Book/tree/master/building-microservices">들여다보기 📂</a>]
+<summary>16. asset [<a href="https://github.com/LenKIM/Book/tree/master/asset">들여다보기 📂</a>]
+
+</summary>
+<br><p>
+</h4></p>
+</details>
+
+
+
+<details align="left">
+<summary>17. building-microservices [<a href="https://github.com/LenKIM/Book/tree/master/building-microservices">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -459,7 +475,7 @@
 
 
 <details align="left">
-<summary>17. clean-architecture [<a href="https://github.com/LenKIM/Book/tree/master/clean-architecture">들여다보기 📂</a>]
+<summary>18. clean-architecture [<a href="https://github.com/LenKIM/Book/tree/master/clean-architecture">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -472,7 +488,7 @@
 
 
 <details align="left">
-<summary>18. kotlinInAction [<a href="https://github.com/LenKIM/Book/tree/master/kotlinInAction">들여다보기 📂</a>]
+<summary>19. kotlinInAction [<a href="https://github.com/LenKIM/Book/tree/master/kotlinInAction">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -503,7 +519,7 @@
 
 
 <details align="left">
-<summary>19. microservice-pattern [<a href="https://github.com/LenKIM/Book/tree/master/microservice-pattern">들여다보기 📂</a>]
+<summary>20. microservice-pattern [<a href="https://github.com/LenKIM/Book/tree/master/microservice-pattern">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -540,7 +556,7 @@
 
 
 <details align="left">
-<summary>20. monolith-to-microservices [<a href="https://github.com/LenKIM/Book/tree/master/monolith-to-microservices">들여다보기 📂</a>]
+<summary>21. monolith-to-microservices [<a href="https://github.com/LenKIM/Book/tree/master/monolith-to-microservices">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -562,7 +578,7 @@
 
 
 <details align="left">
-<summary>21. objectdesignstyleguide [<a href="https://github.com/LenKIM/Book/tree/master/objectdesignstyleguide">들여다보기 📂</a>]
+<summary>22. objectdesignstyleguide [<a href="https://github.com/LenKIM/Book/tree/master/objectdesignstyleguide">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -575,7 +591,7 @@
 
 
 <details align="left">
-<summary>22. the-design-of-web-apis [<a href="https://github.com/LenKIM/Book/tree/master/the-design-of-web-apis">들여다보기 📂</a>]
+<summary>23. the-design-of-web-apis [<a href="https://github.com/LenKIM/Book/tree/master/the-design-of-web-apis">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -591,7 +607,7 @@
 
 
 <details align="left">
-<summary>23. user-story [<a href="https://github.com/LenKIM/Book/tree/master/user-story">들여다보기 📂</a>]
+<summary>24. user-story [<a href="https://github.com/LenKIM/Book/tree/master/user-story">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -652,7 +668,7 @@
 
 
 <details align="left">
-<summary>24. 가상면접 사례로 배우는 대규모 시스템 설계 기초 [<a href="https://github.com/LenKIM/Book/tree/master/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91%20%EC%82%AC%EB%A1%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EA%B8%B0%EC%B4%88">들여다보기 📂</a>]
+<summary>25. 가상면접 사례로 배우는 대규모 시스템 설계 기초 [<a href="https://github.com/LenKIM/Book/tree/master/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91%20%EC%82%AC%EB%A1%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EA%B8%B0%EC%B4%88">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -701,7 +717,7 @@
 
 
 <details align="left">
-<summary>25. 도메인주도설계-에릭에반스 [<a href="https://github.com/LenKIM/Book/tree/master/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%A3%BC%EB%8F%84%EC%84%A4%EA%B3%84-%EC%97%90%EB%A6%AD%EC%97%90%EB%B0%98%EC%8A%A4">들여다보기 📂</a>]
+<summary>26. 도메인주도설계-에릭에반스 [<a href="https://github.com/LenKIM/Book/tree/master/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%A3%BC%EB%8F%84%EC%84%A4%EA%B3%84-%EC%97%90%EB%A6%AD%EC%97%90%EB%B0%98%EC%8A%A4">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -759,7 +775,7 @@
 
 
 <details align="left">
-<summary>26. 모던자바인액션 [<a href="https://github.com/LenKIM/Book/tree/master/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%9D%B8%EC%95%A1%EC%85%98">들여다보기 📂</a>]
+<summary>27. 모던자바인액션 [<a href="https://github.com/LenKIM/Book/tree/master/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%9D%B8%EC%95%A1%EC%85%98">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -775,7 +791,7 @@
 
 
 <details align="left">
-<summary>27. 반응형웹CSS [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9CSS">들여다보기 📂</a>]
+<summary>28. 반응형웹CSS [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9CSS">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -785,7 +801,7 @@
 
 
 <details align="left">
-<summary>28. 분산 컴퓨팅 [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B6%84%EC%82%B0%20%EC%BB%B4%ED%93%A8%ED%8C%85">들여다보기 📂</a>]
+<summary>29. 분산 컴퓨팅 [<a href="https://github.com/LenKIM/Book/tree/master/%EB%B6%84%EC%82%B0%20%EC%BB%B4%ED%93%A8%ED%8C%85">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -810,7 +826,7 @@
 
 
 <details align="left">
-<summary>29. 생각하는_프로그램 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8">들여다보기 📂</a>]
+<summary>30. 생각하는_프로그램 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -826,7 +842,7 @@
 
 
 <details align="left">
-<summary>30. 안드로이드-그한계를넘어서 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B7%B8%ED%95%9C%EA%B3%84%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C">들여다보기 📂</a>]
+<summary>31. 안드로이드-그한계를넘어서 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B7%B8%ED%95%9C%EA%B3%84%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -872,7 +888,7 @@
 
 
 <details align="left">
-<summary>31. 언카피어블(uncopyable) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%96%B8%EC%B9%B4%ED%94%BC%EC%96%B4%EB%B8%94(uncopyable)">들여다보기 📂</a>]
+<summary>32. 언카피어블(uncopyable) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%96%B8%EC%B9%B4%ED%94%BC%EC%96%B4%EB%B8%94(uncopyable)">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -888,7 +904,7 @@
 
 
 <details align="left">
-<summary>32. 웹API설계원칙 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%9B%B9API%EC%84%A4%EA%B3%84%EC%9B%90%EC%B9%99">들여다보기 📂</a>]
+<summary>33. 웹API설계원칙 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%9B%B9API%EC%84%A4%EA%B3%84%EC%9B%90%EC%B9%99">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -904,7 +920,7 @@
 
 
 <details align="left">
-<summary>33. 이펙티브 소프트웨어 테스팅(effective software testing) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%85%8C%EC%8A%A4%ED%8C%85(effective%20software%20testing)">들여다보기 📂</a>]
+<summary>34. 이펙티브 소프트웨어 테스팅(effective software testing) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%85%8C%EC%8A%A4%ED%8C%85(effective%20software%20testing)">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -941,7 +957,7 @@
 
 
 <details align="left">
-<summary>34. 자바 병렬 프로그래밍 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%9E%90%EB%B0%94%20%EB%B3%91%EB%A0%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D">들여다보기 📂</a>]
+<summary>35. 자바 병렬 프로그래밍 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%9E%90%EB%B0%94%20%EB%B3%91%EB%A0%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -996,7 +1012,7 @@
 
 
 <details align="left">
-<summary>35. 진화적 아키텍쳐(BuildingEvolutionaryArchitechtures) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%A7%84%ED%99%94%EC%A0%81%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90(BuildingEvolutionaryArchitechtures)">들여다보기 📂</a>]
+<summary>36. 진화적 아키텍쳐(BuildingEvolutionaryArchitechtures) [<a href="https://github.com/LenKIM/Book/tree/master/%EC%A7%84%ED%99%94%EC%A0%81%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90(BuildingEvolutionaryArchitechtures)">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -1018,7 +1034,7 @@
 
 
 <details align="left">
-<summary>36. 켄트백의-구현패턴 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%BC%84%ED%8A%B8%EB%B0%B1%EC%9D%98-%EA%B5%AC%ED%98%84%ED%8C%A8%ED%84%B4">들여다보기 📂</a>]
+<summary>37. 켄트백의-구현패턴 [<a href="https://github.com/LenKIM/Book/tree/master/%EC%BC%84%ED%8A%B8%EB%B0%B1%EC%9D%98-%EA%B5%AC%ED%98%84%ED%8C%A8%ED%84%B4">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -1031,7 +1047,7 @@
 
 
 <details align="left">
-<summary>37. 패턴을_활용한_리팩토링 [<a href="https://github.com/LenKIM/Book/tree/master/%ED%8C%A8%ED%84%B4%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81">들여다보기 📂</a>]
+<summary>38. 패턴을_활용한_리팩토링 [<a href="https://github.com/LenKIM/Book/tree/master/%ED%8C%A8%ED%84%B4%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81">들여다보기 📂</a>]
 
 </summary>
 <br><p>
@@ -1047,7 +1063,7 @@
 
 
 <details align="left">
-<summary>38. 함수형사고(Functional Thinking) [<a href="https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking)">들여다보기 📂</a>]
+<summary>39. 함수형사고(Functional Thinking) [<a href="https://github.com/LenKIM/Book/tree/master/%ED%95%A8%EC%88%98%ED%98%95%EC%82%AC%EA%B3%A0(Functional%20Thinking)">들여다보기 📂</a>]
 
 </summary>
 <br><p>
