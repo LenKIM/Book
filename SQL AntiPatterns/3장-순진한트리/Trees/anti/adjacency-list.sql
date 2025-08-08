@@ -1,3 +1,14 @@
+create table Bugs
+(
+    bug_id     int not null,
+    account_id int not null
+);
+
+create table Accounts
+(
+    account_id int not null
+);
+
 CREATE TABLE Comments (
   comment_id   SERIAL PRIMARY KEY,
   parent_id    BIGINT UNSIGNED,

@@ -1,7 +1,7 @@
 CREATE TABLE Products (
   product_id   SERIAL PRIMARY KEY,
   product_name VARCHAR(1000),
-  account_id   VARCHAR(100), -- comma-separated list
+  account_id   VARCHAR(100) -- comma-separated list
   -- . . .
 );
 

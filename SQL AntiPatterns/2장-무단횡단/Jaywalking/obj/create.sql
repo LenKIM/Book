@@ -8,3 +8,4 @@ CREATE TABLE Products (
 
 INSERT INTO Products (product_id, product_name, account_id)
 VALUES (DEFAULT, 'Visual TurboBuilder', 12);
+
